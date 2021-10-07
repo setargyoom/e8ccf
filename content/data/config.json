@@ -7,7 +7,7 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Startup3",
+        "title": "Startup",
         "logo": "images/logo.svg",
         "logo_alt": "Startup logo",
         "has_primary_nav": false,
