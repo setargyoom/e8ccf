@@ -31,7 +31,10 @@ export default class MyDocument extends Document {
         // const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
         return (
             <Html {...this.helmetHtmlAttrComponents}>
-                <Head>{this.helmetHeadComponents}</Head>
+                <Head>{this.helmetHeadComponents}
+
+                      <meta name="google-site-verification" content="wUeM07dkLdU-2K147mThUGaAhsD7vvHuqsNN_KeohRc" />
+                </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src="/js/plugins.js" />
