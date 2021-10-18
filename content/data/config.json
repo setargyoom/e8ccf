@@ -152,5 +152,7 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://e8ccf.netlify.app",
+    "favicon": "/images/no name.jpg"
 }
