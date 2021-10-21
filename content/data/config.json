@@ -146,7 +146,7 @@
         "content": "&copy; e8ccf. All rights reserved. This site was created with ❤️ "
     },
     "announcement": {
-        "has_anncmnt": true,
+        "has_anncmnt": false,
         "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
