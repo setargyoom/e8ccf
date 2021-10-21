@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great day!
+      Thank you for visit this site. We hope you like it. Have a great day!
     actions:
       - label: Back to homepage
         url: /
