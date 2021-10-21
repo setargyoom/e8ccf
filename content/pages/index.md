@@ -190,17 +190,17 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Startup Theme
-  description: The preview of the Startup theme
+  title: Your Goal
+  description: Share Useful Information 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: Your Goal
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Share Useful Information
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -209,9 +209,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: Your Goal
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: Share Useful Information
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
