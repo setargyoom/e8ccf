@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Startup Theme",
+    "title": "e8ccf",
     "path_prefix": "/",
     "layout_type": "full-width",
     "style": "classic",
@@ -7,7 +7,7 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Startup",
+        "title": "e8ccf",
         "logo": "images/logo.svg",
         "logo_alt": "Startup logo",
         "has_primary_nav": false,
