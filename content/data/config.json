@@ -37,7 +37,8 @@
                 "url": "/thank-you",
                 "style": "primary"
             }
-        ]
+        ],
+        "title": "e"
     },
     "footer": {
         "logo": "images/logo.svg",
