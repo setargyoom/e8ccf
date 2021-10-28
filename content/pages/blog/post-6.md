@@ -9,7 +9,7 @@ categories:
 tags:
   - content/data/tags/productivity.yaml
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto.
+  Uji coba sebuah postingan yang digunakan untuk menulis sebuah artikel.
 thumb_image: images/post-5.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/post-5.jpg
@@ -17,7 +17,7 @@ image_alt: Post 5 placeholder image
 image_position: right
 seo:
   title: Uji Coba Postingan
-  description: Estne, quaeso, inquam, sitienti in bibendo voluptas
+  description: Uji coba postingan yang digunakan untuk menulis sebuah artikel.
   extra:
     - name: og:type
       value: article
