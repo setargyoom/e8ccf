@@ -22,7 +22,6 @@ seo:
 layout: page
 ---
 
-## Privacy Policy
 Privasi pengunjung sangatlah penting bagi kami. Berikut ini adalah informasi mengenai tipe informasi seperti apa yang kami terima dan kami kumpulkan melalui website ini serta bagaimana kami melindungi informasi tersebut. Kami tidak akan pernah menjual informasi pribadi anda kepada pihak ketiga manapun.
 
 ### Log File
@@ -51,9 +50,17 @@ Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang keb
 Dengan mengakses website ini Anda dianggap telah mengerti dan menyetujui seluruh syarat dan kondisi (disclaimer) yang berlaku dalam penggunaan website ini, sebagaimana tercantum dibawah ini :
 
 Semua informasi di website ini diterbitkan dengan itikad baik dan untuk tujuan informasi umum saja.
-Pada setiap artikel terdapat tanggal, bulan & tahun penulisan. Informasi yang tersedia di website ini mohon digunakan untuk rujukan atau referensi saja. Kami menulis berdasarkan apa yang kami ketahui pada tanggal, bulan & tahun penulisan. Kami tidak menjamin semua informasi yang disajikan akurat dan lengkap sehingga Kami tidak bertanggung jawab atas segala kesalahan dan keterlambatan memperbarui informasi, atau segala kerugian yang timbul karena tindakan yang berkaitan dengan penggunaan informasi yang ada pada website ini, Kami sangat berterima kasih jika ada pembaca yang bersedia memberitahukan ketidak update-an artikel yang pernah Kami tulis melalui email kami.
+
+Pada setiap artikel terdapat tanggal, bulan & tahun penulisan. Informasi yang tersedia di website ini mohon digunakan untuk rujukan atau referensi saja.
+
+Kami menulis berdasarkan apa yang kami ketahui pada tanggal, bulan & tahun penulisan. Kami tidak menjamin semua informasi yang disajikan akurat dan lengkap sehingga Kami tidak bertanggung jawab atas segala kesalahan dan keterlambatan memperbarui informasi, atau segala kerugian yang timbul karena tindakan yang berkaitan dengan penggunaan informasi yang ada pada website ini.
+
+Kami sangat berterima kasih jika ada pembaca yang bersedia memberitahukan ketidak update-an artikel yang pernah Kami tulis melalui email kami.
+
 Di website ini terdapat beberapa link menuju situs lain yang Kami maksudkan untuk melengkapi informasi yang Kami tulis pada saat tanggal penulisan dan pada saat itu masih relevan. Oleh karena itu Kami tidak bertanggung jawab atas isi atau perubahan pada konten situs yang Kami tautkan.
-Setiap pembaca website ini diperbolehkan untuk berkomentar dengan catatan komentar yang dituliskan adalah tanggung jawab dari pemberi komentar masing-masing.
+
+Setiap pembaca website diperbolehkan untuk mengambil referensi yang terdapat pada website ini, dengan catatan referensi atau tulisan yang sudah diambil oleh pembaca dan digunakan untuk tujuan tertentu, misal komersil adalah tanggung jawab dari pengambil referensi tersebut.
+
 Tulisan-tulisan pada website ini merupakan pendapat pribadi dan bukan cerminan sikap instansi dimana Kami bekerja.
 
 ### Persetujuan
