@@ -1,8 +1,8 @@
 ---
-title: Brandon Guidelines
+title: M. Huda
 sections:
   - type: hero_section
-    title: Posts by Brandon Guidelines
+    title: Posts by M. Huda
     align: center
     padding_top: medium
     padding_bottom: none
@@ -11,7 +11,7 @@ sections:
     blog_feed_cols: two
     enable_cards: true
     show_recent: false
-    author: content/data/team/brandon-guidelines.yaml
+    author: content/data/team/m-huda.yaml
     show_date: true
     show_categories: true
     show_author: false
@@ -39,14 +39,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts by Brandon Guidelines
+  title: Posts by M. Huda
   description: This is the author archive page
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Posts by Brandon Guidelines
+      value: Posts by M. Huda
       keyName: property
     - name: og:description
       value: This is the author archive page
@@ -58,7 +58,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Posts by Brandon Guidelines
+      value: Posts by M. Huda
     - name: twitter:description
       value: This is the author archive page
     - name: twitter:image
