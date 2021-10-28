@@ -22,22 +22,39 @@ seo:
 layout: page
 ---
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+## Privacy Policy
+Privasi pengunjung sangatlah penting bagi kami. Berikut ini adalah informasi mengenai tipe informasi seperti apa yang kami terima dan kami kumpulkan melalui website ini serta bagaimana kami melindungi informasi tersebut. Kami tidak akan pernah menjual informasi pribadi anda kepada pihak ketiga manapun.
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
+### Log File
+Sebagaimana website lainnya, website kami juga memakai log file. Informasi yang termasuk dalam log file antara lain, alamat internet protokol ( IP) , tipe browser, Internet Service Provider (ISP), tanggal / waktu, halaman perujuk, dan jumlah klik untuk menganalisi trend, mengelola blog, melacak pergerakan pengguna website dan mengumpulkan informasi demografis. Alamat IP dan informasi lain tidak akan dihubungkan dengan informasi yang bersifat pribadi
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+### Cookies dan Web beacon
+Website ini menggunakan cookies untuk menyimpan informasi tentang preferensi pengunjung, merekam informasi spesifik mengenai halaman mana yang diakses penggunjung, menyesuaikan konten halaman website berdasarkan jenis browser pengunjung atau informasi lain yang dikirim oleh pengunjung melalu browser mereka.
 
-### Morbi Egestas Ullamcorper Vulputate
+### DoubleClick DART Cookie
+Beberapa partner periklanan kami mungkin menggunakan cookies an web beacon pada situs kami.
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Pihak ketiga sebagai penyedia iklan atau jaringan iklan ini menggunakan teknologi yang memungkinkan pengiriman iklan dan link dari website langsung ke browser anda. Saat ini terjadi, mereka secara automatis akan menerima alamat IP anda.
 
-### Donec Vitae Tincidunt Erat
+Teknologi lain (seperti cookie, javascript atau juga web beacons) kemungkinan juga digunakan oleh pihak ketiga untuk mengukur keefektifan iklan mereka atau juga untuk personalisasi konten iklan yang anda lihat.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Website ini tidak memiliki akses untuk mengontrol cookies yang dipasang oleh pihak ketiga pemasang iklan.
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
+Anda sebaiknya meninjau kembali kebijakan privasi dari masing-masing pihak ketiga penyedia iklan untuk mengetahui informasi lebih terinci mengenai praktek atau cara kerja mereka atau untuk mendapatkan petunjuk bagaimana cara keluar dari praktek – praktek tertentu. Kebijakan privasi dari website ini tidak berlaku dan tidak dapat mengontrol kegiatan penyedia iklan dan websitenya.
 
-## Aliquam at Velit eu Elit Iaculis Cursus
+Jika anda ingin menonaktifkan cookie, anda dapat melakukannya melalui opsi pilihan pribadi di browser. Informasi lebih lanjut mengenai cookie manajemen dengan browser website tertentu dapat ditemukan di situs website masing-masing browser
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang kebijakan privasi kami, jangan ragu untuk menghubungi kami melalui email di templategyoom@gmail.com
+
+### Pernyataan
+
+Dengan mengakses website ini Anda dianggap telah mengerti dan menyetujui seluruh syarat dan kondisi (disclaimer) yang berlaku dalam penggunaan website ini, sebagaimana tercantum dibawah ini :
+
+Semua informasi di website ini diterbitkan dengan itikad baik dan untuk tujuan informasi umum saja.
+Pada setiap artikel terdapat tanggal, bulan & tahun penulisan. Informasi yang tersedia di website ini mohon digunakan untuk rujukan atau referensi saja. Kami menulis berdasarkan apa yang kami ketahui pada tanggal, bulan & tahun penulisan. Kami tidak menjamin semua informasi yang disajikan akurat dan lengkap sehingga Kami tidak bertanggung jawab atas segala kesalahan dan keterlambatan memperbarui informasi, atau segala kerugian yang timbul karena tindakan yang berkaitan dengan penggunaan informasi yang ada pada website ini, Kami sangat berterima kasih jika ada pembaca yang bersedia memberitahukan ketidak update-an artikel yang pernah Kami tulis melalui email kami.
+Di website ini terdapat beberapa link menuju situs lain yang Kami maksudkan untuk melengkapi informasi yang Kami tulis pada saat tanggal penulisan dan pada saat itu masih relevan. Oleh karena itu Kami tidak bertanggung jawab atas isi atau perubahan pada konten situs yang Kami tautkan.
+Setiap pembaca website ini diperbolehkan untuk berkomentar dengan catatan komentar yang dituliskan adalah tanggung jawab dari pemberi komentar masing-masing.
+Tulisan-tulisan pada website ini merupakan pendapat pribadi dan bukan cerminan sikap instansi dimana Kami bekerja.
+Persetujuan
+
+Dengan menggunakan website kami, Anda dengan ini menyetujui disclaimer kami dan setuju dengan ketentuan-ketentuannya.
