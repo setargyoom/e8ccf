@@ -25,10 +25,10 @@ layout: page
 Privasi pengunjung sangatlah penting bagi kami. Berikut ini adalah informasi mengenai tipe informasi seperti apa yang kami terima dan kami kumpulkan melalui website ini serta bagaimana kami melindungi informasi tersebut. Kami tidak akan pernah menjual informasi pribadi anda kepada pihak ketiga manapun.
 
 ### Log File
-Sebagaimana website lainnya, website kami juga memakai log file. Informasi yang termasuk dalam log file antara lain, alamat internet protokol ( IP) , tipe browser, Internet Service Provider (ISP), tanggal / waktu, halaman perujuk, dan jumlah klik untuk menganalisi trend, mengelola blog, melacak pergerakan pengguna website dan mengumpulkan informasi demografis. Alamat IP dan informasi lain tidak akan dihubungkan dengan informasi yang bersifat pribadi
+Sebagaimana website lainnya, website kami juga memakai log file. Informasi yang termasuk dalam log file antara lain, alamat internet protokol (IP) , tipe browser, Internet Service Provider (ISP), tanggal / waktu, halaman perujuk, dan jumlah klik untuk menganalisi trend, mengelola blog, melacak pergerakan pengguna website dan mengumpulkan informasi demografis. Alamat IP dan informasi lain tidak akan dihubungkan dengan informasi yang bersifat pribadi
 
 ### Cookies dan Web beacon
-Website ini menggunakan cookies untuk menyimpan informasi tentang preferensi pengunjung, merekam informasi spesifik mengenai halaman mana yang diakses penggunjung, menyesuaikan konten halaman website berdasarkan jenis browser pengunjung atau informasi lain yang dikirim oleh pengunjung melalu browser mereka.
+Website ini menggunakan cookies untuk menyimpan informasi tentang preferensi pengunjung, merekam informasi spesifik mengenai halaman mana yang diakses penggunjung, menyesuaikan konten halaman website berdasarkan jenis browser pengunjung atau informasi lain yang dikirim oleh pengunjung melalui browser mereka.
 
 ### DoubleClick DART Cookie
 Beberapa partner periklanan kami mungkin menggunakan cookies an web beacon pada situs kami.
