@@ -55,6 +55,7 @@ Pada setiap artikel terdapat tanggal, bulan & tahun penulisan. Informasi yang te
 Di website ini terdapat beberapa link menuju situs lain yang Kami maksudkan untuk melengkapi informasi yang Kami tulis pada saat tanggal penulisan dan pada saat itu masih relevan. Oleh karena itu Kami tidak bertanggung jawab atas isi atau perubahan pada konten situs yang Kami tautkan.
 Setiap pembaca website ini diperbolehkan untuk berkomentar dengan catatan komentar yang dituliskan adalah tanggung jawab dari pemberi komentar masing-masing.
 Tulisan-tulisan pada website ini merupakan pendapat pribadi dan bukan cerminan sikap instansi dimana Kami bekerja.
-Persetujuan
+
+### Persetujuan
 
 Dengan menggunakan website kami, Anda dengan ini menyetujui disclaimer kami dan setuju dengan ketentuan-ketentuannya.
