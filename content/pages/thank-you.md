@@ -5,6 +5,7 @@ sections:
     title: Terima Kasih!
     subtitle: >-
       Terima kasih telah mengunjungi situs ini.  Kami harap Anda menyukainya.  Semoga hari mu menyenangkan!
+      actions:
       - label: Back to homepage
         url: /
         style: primary
