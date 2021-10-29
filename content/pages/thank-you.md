@@ -1,11 +1,10 @@
 ---
-title: Thank You
+title: Terima Kasih
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Terima Kasih!
     subtitle: >-
-      Thank you for visit this site. We hope you like it. Have a great day!
-    actions:
+      Terima kasih telah mengunjungi situs ini.  Kami harap Anda menyukainya.  Semoga hari mu menyenangkan!
       - label: Back to homepage
         url: /
         style: primary
