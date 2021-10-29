@@ -1,5 +1,5 @@
 {
-    "title": "Your Goal",
+    "title": "AyolahZy",
     "path_prefix": "/",
     "layout_type": "full-width",
     "style": "classic",
@@ -7,8 +7,8 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Startup",
-        "logo": "images/logo.svg",
+        "title": "AyolahZy",
+        "logo": "images/ayolahzy.svg",
         "logo_alt": "Startup logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
@@ -41,7 +41,7 @@
         ]
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "images/ayolahzy.svg",
         "logo_alt": "Startup logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
