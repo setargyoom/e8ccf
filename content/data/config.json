@@ -16,21 +16,21 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "FAQ",
                 "url": "/faq",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Blog",
                 "url": "/blog",
-                "style": "link"
+                "style": "primary"
             },
             {
-                "label": "Contact",
-                "url": "/thank-you",
+                "label": "Kontak",
+                "url": "/kontak",
                 "style": "secondary"
             },
             {
