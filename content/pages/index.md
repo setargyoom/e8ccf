@@ -190,14 +190,14 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Your Goal
+  title: AyolahZy
   description: Share Useful Information 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Your Goal
+      value: AyolahZy
       keyName: property
     - name: 'og:description'
       value: Share Useful Information
@@ -209,7 +209,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Your Goal
+      value: AyolahZy
     - name: 'twitter:description'
       value: Share Useful Information
     - name: 'twitter:image'
