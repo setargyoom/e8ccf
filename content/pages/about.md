@@ -29,24 +29,25 @@ seo:
 layout: page
 ---
 
-We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
+Selamat Datang di situs ini, 
+Sebelumnya perkenalkan kami para pengelola situs yang terdiri dari Arif Fahru, Alvin M, Azka Gibran, dan Huda M. Awalnya situs ini dibuat oleh satu orang pada tanggal 29 Oktober 2021, yaitu oleh Arif Fahru. Setelah berdiri beberapa bulan, kemudian kami berniat untuk mengajak beberapa rekan untuk bergabung dan mengelola situs ini bersama-sama. Tujuan dibuat situs ini adalah untuk mewadahi ide-ide dan berbagi pengetahuan seputar teknologi dan lainnya. 
 
-![](/images/team.jpg)
+Untuk nama situs ini yaitu AyolahZy, yang memiliki arti (Ayolah) berarti mengajak atau ajakan, sementara (Zy) adalah nama seseorang yaitu Arif Fahru Rozy (Zy). Memang awalnya dulu saat awal pertama pembuatan situs, Arif Fahru atau selaku pembuat awal berpikir bahwa nama AyolahZy bermaksud untuk menyemagati dirinya untuk tetap konsisten mengelola situs ini. 
 
-## Work Life Balance
+Sekilas cerita dari saya (Arif Fahru Rozy),
+Awal mula mengenal website / blog adalah tahun 2015, pada waktu itu saya masih bersekolah kelas 8 SMP. Saat itu pada waktu pelajaran TIK (Teknologi Informasi dan Komputer), oleh seorang guru saya disuruh mencoba membuat blog lewat blogger. Bersama teman-teman lainnya saya pun mencoba membuat sebuah blog lewat blogger. Blog tersebut saya beri nama dolanbareng.blogspot.com (sekarang blognya sudah mati), kemudian untuk artikel pertama saya isi mengenai cara membuat jagung bakar. Waktu itu saya mendapatkan artikel tersebut hanya sebatas copy paste, edit dari blog lain. Maklum... saat itu saya masih terlalu awam mengenai blog. Setelah itu saya hanya menganggurkan blog tersebut.
 
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
+Namun setelah beberapa lama kemudian saya tidak meneruskan lagi untuk mengelola blog tersebut. Kira-kira saya vakum mengelola blog selama 4 tahun. Nah, pada bulan September tahun 2020 saya iseng-iseng membuka blog tersebut, dan ternyata masih ada. Kemudian saya isi dengan artikel mengenai ikan dan perawatannya. Namun hal itu tidak berselang lama, karena saya mulai jenuh kenapa blog tersebut tidak dapat ditemukan di mesin pencari semacam Google. Dari sini saya mulai bermalas-malasan untuk mengelola blog tersebut. 
 
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
+Saya pun masih penasaran kenapa blog tersebut sulit ditemukan di mesin pencari, kemudian saya coba join beberapa grup blogger di facebook. Setelah dari waktu ke waktu akhirnya saya paham bahwa blog tersebut tidak dapat ditemukan di mesin pencari karena saya tidak mendaftarkannya di Google Search Console. Nah, anehnya meski sudah tahu saya malah tidak mencoba mendaftrakan blog tersebut, dan malah membuat blog baru yaitu master-templatez.blogspot.com yang berisi kumpulan template blogger. Saya pun konsisten mengisi blog tersebut dengan berbagai macam jenis template blogger, dan bahkan setiap ada waktu luang saya coba untuk mengisi blog tersebut. 
 
-With App Land, we strive to make it clear and easy to follow a healthy routine of work effectiveness, collaboration, and also family time and social events.
+Sampai pada akhir tahun 2020, saya malah mencoba membuat banyak blog sekaligus yang terdiri dari beberapa macam platform, yaitu blogger, wordpress, wix, zyro, xtgem, wapblog.id, wapblog.co, dan medium. Namun, bukanya saya bisa mengelola blog tersebut, yang ada malah semuanya menjadi kacau dan akhirnya ada beberapa blog yang terbengkalai. Sampai pada April 2021, ada beberapa blog yang saya seriusin. Sebulan kemudian saya mulai agak kurang konsisten mengelola blog tersebut. Tepat pada akhirnya bulan Juni 2021 saya mulai berhenti mengisi artikel-artikel pada beberapa blog tersebut. Kalau bisa dibilang kelemahan saya adalah kurang konsisten dalam mengelolanya dan tidak melihat kemampuan yang saya miliki untuk mengelola banyak blog.
 
-## Careers
+Bulan Juli ini adalah bulan yang cukup aneh bagi saya, kenapa pada waktu ini saya malah menghapus blog-blog yang sudah saya buat tersebut. Yang terlintas dipikiran saya adalah ingin membuat blog baru lagi, makanya blog tersebut saya hapus. Termasuk blog yang sebelumnya sudah saya tekuni untuk mengisi artikel juga saya hapus, tapi artikelnya saya backup terlebih dahulu. 
 
-**We have lots of open positions**. We are always looking for motivated and collaborative people from around the world who share our *passions and values*.
+Pada bulan Agustus 2021, saya mencoba membuat blog baru lagi, kemudian artikelnya saya isi dengan hasil backupan dari semua blog yang sudah saya hapus. Sampai sekarang saya masih konsisten mengelola blog tersebut, semoga saja kedepannya hal ini dapat bertahan. 
 
-![](/images/team-2.jpg)
+Beberapa bulan berselang, pada tanggal 29 Oktober 2021 ini saya mencoba membuat blog baru juga yang saya beri nama AyolahZy. Dari namanya pun bisa ditebak bahwa blog tersebut bertujuan untuk menyemangati saya agar tetap konsisten mengelola blog. Beberapa kemudian saya mengajak beberapa rekan untuk bergabung mengelola blog ini, yang terdiri dari Alvin M, Azka Gibran, dan Huda M. Jadilah blog ini yang sampai sekarang masih terkelola dengan baik dan semoga bisa memberikan manfaat bagi semua orang. Terima Kasih.
 
-
-
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
+### Akhir Kata
+Kami ucapkan terima kasih kepada para pembaca sekalian, kurang lebihnya mohon maaf bila ada kata yang kurang berkenan. Terima Kasih, Kami harap Anda semua menyukai blog ini. Semoga hari mu menyenangkan! Good Luck...
