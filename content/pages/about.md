@@ -30,11 +30,13 @@ layout: page
 ---
 
 Selamat Datang di situs ini, 
+
 Sebelumnya perkenalkan kami para pengelola situs yang terdiri dari Arif Fahru, Alvin M, Azka Gibran, dan Huda M. Awalnya situs ini dibuat oleh satu orang pada tanggal 29 Oktober 2021, yaitu oleh Arif Fahru. Setelah berdiri beberapa bulan, kemudian kami berniat untuk mengajak beberapa rekan untuk bergabung dan mengelola situs ini bersama-sama. Tujuan dibuat situs ini adalah untuk mewadahi ide-ide dan berbagi pengetahuan seputar teknologi dan lainnya. 
 
-Untuk nama situs ini yaitu AyolahZy, yang memiliki arti (Ayolah) berarti mengajak atau ajakan, sementara (Zy) adalah nama seseorang yaitu Arif Fahru Rozy (Zy). Memang awalnya dulu saat awal pertama pembuatan situs, Arif Fahru atau selaku pembuat awal berpikir bahwa nama AyolahZy bermaksud untuk menyemagati dirinya untuk tetap konsisten mengelola situs ini. 
+Untuk nama situs ini yaitu AyolahZy, yang memiliki arti (Ayolah) berarti mengajak atau ajakan, sementara (Zy) adalah nama seseorang yaitu Arif Fahru Rozy (Zy). Memang awalnya dulu saat awal pertama pembuatan situs, Arif Fahru atau selaku pembuat awal berpikir bahwa nama AyolahZy bermaksud untuk menyemangati dirinya untuk tetap konsisten mengelola situs ini. 
 
 Sekilas cerita dari saya (Arif Fahru Rozy),
+
 Awal mula mengenal website / blog adalah tahun 2015, pada waktu itu saya masih bersekolah kelas 8 SMP. Saat itu pada waktu pelajaran TIK (Teknologi Informasi dan Komputer), oleh seorang guru saya disuruh mencoba membuat blog lewat blogger. Bersama teman-teman lainnya saya pun mencoba membuat sebuah blog lewat blogger. Blog tersebut saya beri nama dolanbareng.blogspot.com (sekarang blognya sudah mati), kemudian untuk artikel pertama saya isi mengenai cara membuat jagung bakar. Waktu itu saya mendapatkan artikel tersebut hanya sebatas copy paste, edit dari blog lain. Maklum... saat itu saya masih terlalu awam mengenai blog. Setelah itu saya hanya menganggurkan blog tersebut.
 
 Namun setelah beberapa lama kemudian saya tidak meneruskan lagi untuk mengelola blog tersebut. Kira-kira saya vakum mengelola blog selama 4 tahun. Nah, pada bulan September tahun 2020 saya iseng-iseng membuka blog tersebut, dan ternyata masih ada. Kemudian saya isi dengan artikel mengenai ikan dan perawatannya. Namun hal itu tidak berselang lama, karena saya mulai jenuh kenapa blog tersebut tidak dapat ditemukan di mesin pencari semacam Google. Dari sini saya mulai bermalas-malasan untuk mengelola blog tersebut. 
