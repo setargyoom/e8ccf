@@ -8,8 +8,8 @@ sections:
       - label: Explore Now
         url: /blog
         style: primary
-    image: images/hero.svg
-    image_alt: Hero section placeholder image
+    background_image: images/background-2.jpg
+    image_alt: Background image
     media_position: bottom
     align: center
     padding_top: large
