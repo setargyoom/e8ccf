@@ -8,7 +8,7 @@ sections:
       - label: Explore Now
         url: /blog
         style: primary
-    background_image: images/background-1.svg
+    background_image: images/background.svg
     image_alt: Background image
     media_position: bottom
     align: center
