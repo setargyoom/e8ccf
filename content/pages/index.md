@@ -2,8 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: Selamat Datang!
-    subtitle: Kami harap Anda menyukainya. 
+    title: Welcome!
+    subtitle: We hope you like it. Have a great day!
     actions:
       - label: Explore Now
         url: /blog
@@ -174,8 +174,8 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Siap untuk bereksplorasi?
-    content: Temukan beragam informasi menarik untuk Anda!
+    title: Ready to Explore?
+    content: Find a variety of interesting information for you!
     actions:
       - label: Explore Now
         url: /blog
@@ -191,7 +191,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: AyolahZy
-  description: Temukan beragam informasi menarik! 
+  description: Find a variety of interesting information for you!
   extra:
     - name: 'og:type'
       value: website
@@ -200,7 +200,7 @@ seo:
       value: AyolahZy
       keyName: property
     - name: 'og:description'
-      value: Temukan beragam informasi menarik!
+      value: Find a variety of interesting information for you!
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -211,7 +211,7 @@ seo:
     - name: 'twitter:title'
       value: AyolahZy
     - name: 'twitter:description'
-      value: Temukan beragam informasi menarik!
+      value: Find a variety of interesting information for you!
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
