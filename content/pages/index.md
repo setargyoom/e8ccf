@@ -2,8 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
-    subtitle: Celebrating daily wins with YourGoal.
+    title: Selamat Datang!
+    subtitle: Kami harap Anda menyukainya. 
     actions:
       - label: Explore Now
         url: /blog
@@ -174,8 +174,8 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to get started?
-    content: Start achieving your goals today!
+    title: Siap untuk bereksplorasi?
+    content: Temukan beragam informasi menarik untuk Anda!
     actions:
       - label: Explore Now
         url: /blog
@@ -191,7 +191,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: AyolahZy
-  description: Share Useful Information 
+  description: Temukan beragam informasi menarik! 
   extra:
     - name: 'og:type'
       value: website
@@ -200,7 +200,7 @@ seo:
       value: AyolahZy
       keyName: property
     - name: 'og:description'
-      value: Share Useful Information
+      value: Temukan beragam informasi menarik!
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -211,7 +211,7 @@ seo:
     - name: 'twitter:title'
       value: AyolahZy
     - name: 'twitter:description'
-      value: Share Useful Information
+      value: Temukan beragam informasi menarik!
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
