@@ -29,12 +29,12 @@
                 "style": "primary"
             },
             {
-                "label": "Kontak",
+                "label": "Contact",
                 "url": "/kontak",
                 "style": "secondary"
             },
             {
-                "label": "Terima Kasih",
+                "label": "Thank You",
                 "url": "/thank-you",
                 "style": "primary"
             }
