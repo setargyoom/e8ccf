@@ -51,7 +51,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.png
+        image: images/ant-1.svg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
@@ -67,7 +67,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-2.png
+        image: images/ant-2.svg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
@@ -82,7 +82,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-3.png
+        image: images/ant-3.svg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
