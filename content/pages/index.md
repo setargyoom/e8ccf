@@ -19,40 +19,43 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Featured On
+    title: Our Team
     align: center
     grid_items:
       - image: images/logo-1.svg
-        image_alt: Logo 1
+        image_alt: Team 1
         image_align: center
       - image: images/logo-2.svg
-        image_alt: Logo 2
+        image_alt: Team 2
         image_align: center
       - image: images/logo-3.svg
-        image_alt: Logo 3
+        image_alt: Team 3
         image_align: center
-    grid_cols: three
+      - image: images/logo-4.svg
+        image_alt: Team 4
+        image_align: center
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
     padding_top: small
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Why Choose AyolahZy?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
         actions:
-          - label: Learn More
+          - label: Thank You
             url: /thank-you
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/ant-1.svg
-        image_alt: Feature 1 placeholder image
+        image_alt: Feature 1 
         media_position: right
         media_width: sixty
       - title: Achieve Your Goals With Your Friends
@@ -61,14 +64,14 @@ sections:
           you to achieve your goals. With Your Goal, you can set goals with your
           friends and achieve them together.
         actions:
-          - label: Learn More
+          - label: Thank You
             url: /thank-you
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/ant-2.svg
-        image_alt: Feature 2 placeholder image
+        image_alt: Feature 2 
         media_position: left
         media_width: sixty
       - title: Optimize Your Daily Schedule for Maximum Productivity
@@ -76,14 +79,14 @@ sections:
           With YourGoal you will be more productive and organized. Overcome
           procrastination and achieve your goals.
         actions:
-          - label: Learn More
+          - label: Thank You
             url: /thank-you
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/ant-3.svg
-        image_alt: Feature 3 placeholder image
+        image_alt: Feature 3 
         media_position: right
         media_width: sixty
     feature_padding_vert: large
