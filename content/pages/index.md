@@ -18,10 +18,9 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - type: features_section
+  - type: hero_section
     title: Team Work
     align: center
-    features:
       image: images/our team.svg
       image_alt: Team 
       media_position: center
