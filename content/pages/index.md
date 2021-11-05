@@ -19,22 +19,13 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Our Team
+    title: Team Work
     align: center
     grid_items:
-      - image: images/arif.svg
-        image_alt: Team 1
+      - image: images/our team.svg
+        image_alt: Team 
         image_align: center
-      - image: images/azka.svg
-        image_alt: Team 2
-        image_align: center
-      - image: images/alvin.svg
-        image_alt: Team 3
-        image_align: center
-      - image: images/huda.svg
-        image_alt: Team 4
-        image_align: center
-    grid_cols: four
+    grid_cols: one
     grid_gap_horiz: medium
     grid_gap_vert: medium
     padding_top: small
