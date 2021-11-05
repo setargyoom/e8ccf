@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Blog
-    subtitle: Planning and productivity insights
+    subtitle: Find a variety of interesting information for you!
     align: center
     padding_top: medium
     padding_bottom: none
