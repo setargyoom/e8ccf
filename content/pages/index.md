@@ -22,10 +22,10 @@ sections:
     title: Team Work
     align: center
     features:
-      - image: images/our team.svg
-        image_alt: Team 
-        media_position: center
-        media_width: sixty
+      image: images/our team.svg
+      image_alt: Team 
+      media_position: center
+      media_width: sixty
   - type: features_section
     title: Why Choose AyolahZy?
     features:
