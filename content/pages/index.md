@@ -18,19 +18,14 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - type: grid_section
+  - type: features_section
     title: Team Work
     align: center
-    grid_items:
+    features:
       - image: images/our team.svg
         image_alt: Team 
-        image_align: center
-    grid_cols: one
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    padding_top: small
-    padding_bottom: medium
-    background_color: none
+        media_position: center
+        media_width: sixty
   - type: features_section
     title: Why Choose AyolahZy?
     features:
