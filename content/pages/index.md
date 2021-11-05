@@ -22,16 +22,16 @@ sections:
     title: Our Team
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/arif.svg
         image_alt: Team 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/azka.svg
         image_alt: Team 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/alvin.svg
         image_alt: Team 3
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/huda.svg
         image_alt: Team 4
         image_align: center
     grid_cols: four
