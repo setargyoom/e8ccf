@@ -76,9 +76,7 @@ sections:
       - title: What to Do
         title_align: left
         content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With YourGoal you can list positive task what helps you to create
-          good habbits.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
@@ -88,8 +86,7 @@ sections:
       - title: What not to do
         title_align: left
         content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
@@ -99,9 +96,7 @@ sections:
       - title: Activity streak
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
@@ -111,9 +106,7 @@ sections:
       - title: Your Progress
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
