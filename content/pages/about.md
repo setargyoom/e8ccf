@@ -29,27 +29,33 @@ seo:
 layout: page
 ---
 
-Selamat Datang di situs ini, 
+Welcome to this site,
 
-Sebelumnya perkenalkan kami para pengelola situs yang terdiri dari Arif Fahru, Alvin M, Azka Gibran, dan Huda M. Awalnya situs ini dibuat oleh satu orang pada tanggal 29 Oktober 2021, yaitu oleh Arif Fahru. Setelah berdiri beberapa bulan, kemudian kami berniat untuk mengajak beberapa rekan untuk bergabung dan mengelola situs ini bersama-sama. Tujuan dibuat situs ini adalah untuk mewadahi ide-ide dan berbagi pengetahuan seputar teknologi dan lainnya. 
+Previously, let us introduce the site managers consisting of Arif Fahru R, Alvin M, Azka Gibran, and Huda M.
 
-Untuk nama situs ini yaitu AyolahZy, yang memiliki arti (Ayolah) berarti mengajak atau ajakan, sementara (Zy) adalah nama seseorang yaitu Arif Fahru Rozy (Zy). Memang awalnya dulu saat awal pertama pembuatan situs, Arif Fahru atau selaku pembuat awal berpikir bahwa nama AyolahZy bermaksud untuk menyemangati dirinya untuk tetap konsisten mengelola situs ini. 
+Initially this site was created by one person on October 29, 2021, namely by Arif Fahru R. After being established for several months, then we intend to invite several colleagues to join and manage this site together.  The purpose of this site is to accommodate ideas and share knowledge about technology and others.
 
-Sekilas cerita dari saya (Arif Fahru Rozy),
+The name of this site is AyolahZy, which means (Ayolah) means an invitation or invite in Indonesian, while (Zy) is the name of a person, namely Arif Fahru Rozy (zy).  In the beginning, at the beginning of the creation of the site, Arif Fahru Rozy or as the initial creator thought that the name AyolahZy meant to encourage himself to consistently manage this site.
 
-Awal mula mengenal website / blog adalah tahun 2015, pada waktu itu saya masih bersekolah kelas 8 SMP. Saat itu pada waktu pelajaran TIK (Teknologi Informasi dan Komputer), oleh seorang guru saya disuruh mencoba membuat blog lewat blogger. Bersama teman-teman lainnya saya pun mencoba membuat sebuah blog lewat blogger. Blog tersebut saya beri nama dolanbareng.blogspot.com (sekarang blognya sudah mati), kemudian untuk artikel pertama saya isi mengenai cara membuat jagung bakar. Waktu itu saya mendapatkan artikel tersebut hanya sebatas copy paste, edit dari blog lain. Maklum... saat itu saya masih terlalu awam mengenai blog. Setelah itu saya hanya menganggurkan blog tersebut.
+A brief story from me (Arif Fahru Rozy),
 
-Namun setelah beberapa lama kemudian saya tidak meneruskan lagi untuk mengelola blog tersebut. Kira-kira saya vakum mengelola blog selama 4 tahun. Nah, pada bulan September tahun 2020 saya iseng-iseng membuka blog tersebut, dan ternyata masih ada. Kemudian saya isi dengan artikel mengenai ikan dan perawatannya. Namun hal itu tidak berselang lama, karena saya mulai jenuh kenapa blog tersebut tidak dapat ditemukan di mesin pencari semacam Google. Dari sini saya mulai bermalas-malasan untuk mengelola blog tersebut. 
+The beginning of getting to know the website / blog was in 2015, at that time I was still in 8th grade of junior high school.  At that time, during an ICT (Information and Computer Technology) lesson, a teacher told me to try to create a blog through blogger.
 
-Saya pun masih penasaran kenapa blog tersebut sulit ditemukan di mesin pencari, kemudian saya coba join beberapa grup blogger di facebook. Setelah dari waktu ke waktu akhirnya saya paham bahwa blog tersebut tidak dapat ditemukan di mesin pencari karena saya tidak mendaftarkannya di Google Search Console. Nah, anehnya meski sudah tahu saya malah tidak mencoba mendaftrakan blog tersebut, dan malah membuat blog baru yaitu master-templatez.blogspot.com yang berisi kumpulan template blogger. Saya pun konsisten mengisi blog tersebut dengan berbagai macam jenis template blogger, dan bahkan setiap ada waktu luang saya coba untuk mengisi blog tersebut. 
+Together with other friends I also tried to create a blog with blogger.  I named the blog dolanbareng.blogspot.com (now the blog is dead), then for the first article I filled in on how to make roasted corn.  At that time I got the article only limited to copy and paste, edit from another blog.  You know ... at that time I was too new to blogs.  After that I just idled the blog.
 
-Sampai pada akhir tahun 2020, saya malah mencoba membuat banyak blog sekaligus yang terdiri dari beberapa macam platform, yaitu blogger, wordpress, wix, zyro, xtgem, wapblog.id, wapblog.co, dan medium. Namun, bukanya saya bisa mengelola blog tersebut, yang ada malah semuanya menjadi kacau dan akhirnya ada beberapa blog yang terbengkalai. Sampai pada April 2021, ada beberapa blog yang saya seriusin. Sebulan kemudian saya mulai agak kurang konsisten mengelola blog tersebut. Tepat pada akhirnya bulan Juni 2021 saya mulai berhenti mengisi artikel-artikel pada beberapa blog tersebut. Kalau bisa dibilang kelemahan saya adalah kurang konsisten dalam mengelolanya dan tidak melihat kemampuan yang saya miliki untuk mengelola banyak blog.
+But after a while I did not continue to manage the blog anymore.  I think I've been resting a blog for 4 years.  Well, in september 2020 I idly opened the blog, and it turns out it's still there.  Then I filled with articles about fish and their care.  But it didn't take long, because I was getting tired of why the blog couldn't be found on search engines like Google.  From here I started to lazy to manage the blog.
 
-Bulan Juli ini adalah bulan yang cukup aneh bagi saya, kenapa pada waktu ini saya malah menghapus blog-blog yang sudah saya buat tersebut. Yang terlintas dipikiran saya adalah ingin membuat blog baru lagi, makanya blog tersebut saya hapus. Termasuk blog yang sebelumnya sudah saya tekuni untuk mengisi artikel juga saya hapus, tapi artikelnya saya backup terlebih dahulu. 
+I'm still curious why the blog is difficult to find in search engines, then I tried to join several blogger groups on Facebook.  After time to time I finally understood that the blog could not be found in search engines because I did not register it in Google Search Console.  Well, oddly enough, even though I already knew I didn't even try to register the blog, and instead created a new blog containing a collection of blogger templates.  I also consistently fill the blog with various types of blogger templates, and even whenever I have free time I try to fill the blog.
 
-Pada bulan Agustus 2021, saya mencoba membuat blog baru lagi, kemudian artikelnya saya isi dengan hasil backupan dari semua blog yang sudah saya hapus. Sampai sekarang saya masih konsisten mengelola blog tersebut, semoga saja kedepannya hal ini dapat bertahan. 
+Until the end of 2020, I even tried to create many blogs at once consisting of several platforms, namely blogger, wordpress, wix, zyro, xtgem, wapblog.id, wapblog.co, and medium.
 
-Beberapa bulan berselang, pada tanggal 29 Oktober 2021 ini saya mencoba membuat blog baru juga yang saya beri nama AyolahZy. Dari namanya pun bisa ditebak bahwa blog tersebut bertujuan untuk menyemangati saya agar tetap konsisten mengelola blog. Beberapa kemudian saya mengajak beberapa rekan untuk bergabung mengelola blog ini, yang terdiri dari Alvin M, Azka Gibran, dan Huda M. Jadilah blog ini yang sampai sekarang masih terkelola dengan baik dan semoga bisa memberikan manfaat bagi semua orang. Terima Kasih.
+However, instead of being able to manage the blog, what was there was that everything became chaotic and finally there were several abandoned blogs.  Until April 2021, there are several blogs that I am serious about.  A month later I started to be a little less consistent in managing the blog.  Right at the end in June 2021 I started to stop filling out articles on some of these blogs.  If you could say my weakness is not consistent in managing it and do not see the ability that I have to manage many blogs.
 
-### Akhir Kata
-Kami ucapkan terima kasih kepada para pembaca sekalian, kurang lebihnya mohon maaf bila ada kata yang kurang berkenan. Terima Kasih, Kami harap Anda semua menyukai blog ini. Semoga hari mu menyenangkan! Good Luck...
+This July is a month that is quite strange for me, why at that time I even deleted the blogs that I had created.  What crossed my mind was that I wanted to create a new blog again, that's why I deleted my previous blog.  Including the blogs that I have been working on to fill out articles, I also deleted them, but I backup the articles first.
+
+In August 2021, I tried to create a new blog again, then I filled the article with backup results from all the blogs that I had deleted.  Until now I still consistently manage the blog, hopefully in the future this can survive.
+
+A few months ago, on October 29, 2021, I tried to create a new blog, which I named AyolahZy.  From the name, you can guess that the blog aims to encourage me to consistently manage my blog.  Some time later I invited several colleagues to join in managing this blog, which consisted of Alvin M, Azka Gibran, and Huda M. So this blog is still well managed and hopefully can provide benefits for everyone.  Thank you.
+
+### The final word
+We thank all readers, more or less sorry if there are words that are less pleasing.  Thank you, We hope you all like this site.  Have a nice day!  Good luck...
