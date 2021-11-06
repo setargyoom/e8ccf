@@ -22,94 +22,90 @@ seo:
 layout: page
 ---
 
-Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang Ketentuan Layanan kami, jangan ragu untuk menghubungi kami melalui email di templategyoom@gmail.com
+If you need more information or have any questions about our terms of service, please feel free to contact us via email at templategyoom@gmail.com
 
-### Pengantar
-Syarat dan ketentuan ini mengatur penggunaan Anda atas situs web ini, dengan menggunakan situs web ini, Anda menerima syarat dan ketentuan ini secara penuh dan tanpa syarat. Jika Anda tidak setuju dengan syarat dan ketentuan ini atau bagian dari syarat dan ketentuan ini, Anda tidak boleh menggunakan situs web ini.
+### Introduction
+These terms and conditions govern your use of this website, by using this website, you accept these terms and conditions in full and without conditions.  If you do not agree to these terms and conditions or any part of these terms and conditions, you must not use this website.
 
-### Lisensi untuk menggunakan situs web
-Kecuali dinyatakan lain, atau pemberi lisensinya memiliki hak kekayaan intelektual yang dipublikasikan di situs web ini dan materi yang digunakan pada website ini. Tunduk pada lisensi di bawah ini, semua hak kekayaan intelektual ini dilindungi undang-undang.
+### License to use the website
+Unless otherwise stated, or its licensors own the intellectual property rights published on this website and the materials used on this website.  Subject to the license below, all these intellectual property rights are reserved.
 
-Anda dapat melihat, mengunduh hanya untuk tujuan cache, dan mencetak halaman, file, atau konten lain dari situs web untuk penggunaan pribadi Anda, dan tunduk pada batasan yang ditetapkan di bawah dan di tempat lain dalam syarat dan ketentuan ini.
+You may view, download for cache purposes only, and print pages, files or other content from the website for your own personal use, subject to the limitations set out below and elsewhere in these terms and conditions.
 
-### Anda tidak diperkenankan:
+### You are not allowed : 
+1. Republish material from this website in either print or digital media or documents (including republishing on other websites).
 
-1. Mempublikasikan ulang materi dari situs web ini baik dalam media cetak maupun digital atau dokumen (termasuk publikasi ulang di situs web lain).
-2. Menjual, menyewakan, atau mensublisensikan materi dari situs web ini.
-3. Mereproduksi, menggandakan, menyalin, atau mengeksploitasi materi di situs web ini untuk tujuan komersial.
-4. Mengedit atau memodifikasi materi apa pun di situs web ini, dan mendistribusikan ulang materi dari situs web ini – kecuali untuk konten yang secara khusus dan jelas tersedia untuk didistribusikan kembali.
-5. Mempublikasikan ulang atau mereproduksi bagian mana pun dari situs web ini melalui penggunaan iframe atau screenscraper.
+2. Sell, rent or sublicense material from this website.
 
-### Penggunaan yang tidak dapat diterima
-Anda tidak boleh menggunakan situs web ini dengan cara apa pun yang menyebabkan, atau dapat menyebabkan, kerusakan pada situs web atau penurunan ketersediaan atau aksesibilitas dari atau dengan cara apa pun yang melanggar hukum, ilegal, curang, atau berbahaya, atau sehubungan dengan tindakan apa pun yang melanggar hukum, ilegal. Serta tujuan atau aktivitas penipuan atau tindakan berbahaya.
+3. Reproduce, duplicate, copy or otherwise exploit material on this website for commercial purposes.
 
-Anda tidak boleh menggunakan situs web ini untuk menyalin, menyimpan, menghosting, mengirimkan, mengirim, menggunakan, menerbitkan, atau mendistribusikan materi apa pun yang terdiri dari (atau terkait dengan) spyware, virus komputer, Trojan horse, worm, keystroke logger, rootkit, atau lainnya. perangkat lunak komputer berbahaya.
+4. Edit or modify any material on this website, and redistribute material from this website (except for content that is specifically and clearly available for re-distribution).
 
-Anda tidak boleh melakukan aktivitas pengumpulan data yang sistematis atau otomatis pada atau terkait dengan situs web ini tanpa persetujuan tertulis dari kami.
+5. Republish or reproduce any part of this website through the use of an iframe or screen scraper.
 
-Anda tidak boleh menggunakan situs web ini untuk tujuan apa pun yang terkait dengan pemasaran tanpa persetujuan tertulis dari kami.
+### Unacceptable use
+You must not use this website in any way that causes damage to the website or decreases the availability or accessibility of or in any way that is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal  .  As well as fraudulent purposes or activities or malicious acts.
 
-### Akses terbatas
-Akses ke area tertentu dari situs web ini dibatasi. Kami berhak untuk membatasi akses ke area tertentu dari situs web ini, atau atas kebijakan kami, seluruh situs web ini. dapat mengubah atau memodifikasi kebijakan ini tanpa pemberitahuan.
+You may not use this website to copy, store, host, transmit, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, trojan horse, worm, keystroke logger, rootkit,  or other malicious computer software.
 
-Jika memberi Anda ID pengguna dan kata sandi untuk memungkinkan Anda mengakses area terlarang situs web ini atau konten atau layanan lain, Anda harus memastikan bahwa ID pengguna dan kata sandi dijaga kerahasiaannya. Anda sendiri yang bertanggung jawab atas keamanan kata sandi dan ID pengguna Anda.
+You may not conduct any systematic or automated data collection activities on or in connection with this website without our express written consent.
 
-### Tidak ada jaminan
-Situs web ini disediakan "sebagaimana adanya" tanpa pernyataan atau jaminan apa pun, tersurat maupun tersirat. tidak membuat pernyataan atau jaminan sehubungan dengan situs web ini atau informasi dan materi yang disediakan di situs web ini.
+You may not use this website for any purpose related to marketing without our express written consent.
 
-Tanpa mengurangi keumuman paragraf sebelumnya, tidak menjamin bahwa:
+### Limited access
+Access to certain areas of this website is restricted.  We reserve the right to restrict access to certain areas of this website, or at our discretion, this entire website.  We may also change or modify this policy without notice.
 
-Situs web ini akan selalu tersedia, atau tersedia sama sekali; atau
-informasi di situs web ini lengkap, benar, akurat atau tidak menyesatkan.
-Tidak ada apa pun di situs web ini yang merupakan, atau dimaksudkan untuk membentuk, saran dalam bentuk apa pun. Jika Anda memerlukan nasihat sehubungan dengan masalah hukum, keuangan atau medis, Anda harus berkonsultasi dengan profesional yang sesuai.
+If this site provides you with a user ID and password to enable you to access restricted areas of this website or other content or services, you must ensure that the user ID and password are kept confidential.  You are solely responsible for the security of your password and user ID.
 
-### Batasan tanggung jawab
-Tidak akan bertanggung jawab kepada Anda (baik di bawah hukum kontak, hukum gugatan atau sebaliknya) sehubungan dengan isi, atau penggunaan, atau sehubungan dengan, situs web ini.
+### No guarantee
+This website is provided "as is" without any representations or warranties of any kind, express or implied.  We make no representations or warranties with respect to this website or the information and materials provided on this website.
 
-Sejauh situs web disediakan secara gratis, untuk kerugian langsung apa pun;
-untuk setiap kerugian tidak langsung, khusus atau konsekuensial; atau
-untuk setiap kerugian bisnis, kehilangan pendapatan, pendapatan, keuntungan atau tabungan yang diantisipasi, kehilangan kontrak atau hubungan bisnis, kehilangan reputasi atau niat baik, atau kehilangan atau kerusakan informasi atau data.
-Batasan tanggung jawab ini berlaku bahkan jika telah secara tegas diberitahu tentang potensi kerugian.
+Without prejudice to the generality of the foregoing paragraph, does not warrant that:
 
-### Pengecualian
-Tidak ada dalam penafian situs web ini yang akan mengecualikan atau membatasi jaminan apa pun yang tersirat oleh hukum yang akan melanggar hukum untuk dikecualikan atau dibatasi; dan tidak ada dalam penafian situs web ini yang akan mengecualikan atau membatasi tanggung jawab sehubungan dengan:
+This website will always be available, or available at all, or the information on this website is complete, true, accurate or not misleading.  Nothing on this website constitutes, or is intended to constitute, advice of any kind.  If you need advice regarding legal, financial or medical matters.  You should consult an appropriate professional.
 
-kematian atau cedera pribadi yang disebabkan oleh kelalaian atau agennya, karyawan atau pemegang saham/pemiliknya;
-penipuan atau misrepresentasi penipuan dari pihak ; atau
-hal yang akan menjadi ilegal atau melanggar hukum untuk mengecualikan atau membatasi, atau untuk mencoba atau dimaksudkan untuk mengecualikan atau membatasi, kewajibannya.
+### Liability limitation
+We will not be liable to you (whether under the law of contact, the law of torts or otherwise) in connection with the content of, or use of, or in connection with this website.
 
-### Kelayakan
-Dengan menggunakan situs web ini, Anda setuju bahwa pengecualian dan batasan tanggung jawab yang ditetapkan dalam penafian situs web ini adalah wajar.
+To the extent that the website is provided free of charge, for any direct loss, for any indirect, special or consequential loss or for any business loss, loss of income, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data.  These limitations of liability apply even if you have been expressly advised of the potential loss.
 
-Jika menurut Anda tidak masuk akal, Anda tidak boleh menggunakan situs web ini.
+### Exception
+Nothing in this website disclaimer will exclude or limit any warranties implied by law that it would be unlawful to exclude or limit, and nothing in this website disclaimer will exclude or limit liability with respect to:
 
-### Pihak lain
-Anda menerima bahwa, sebagai entitas dengan kewajiban terbatas, memiliki kepentingan dalam membatasi tanggung jawab pribadi pejabat dan karyawannya. Anda setuju bahwa Anda tidak akan mengajukan klaim apa pun secara pribadi terhadap pejabat atau karyawan sehubungan dengan kerugian yang Anda derita sehubungan dengan situs web ini.
+death or personal injury caused by negligence or its agents, employees or shareholders/owners, fraud or fraudulent misrepresentation of any party, or any matter which it would be illegal or unlawful to exclude or limit, or to attempt or purport to exclude or limit, its liability.
 
-Tanpa mengurangi paragraf sebelumnya, Anda setuju bahwa batasan jaminan dan kewajiban yang ditetapkan dalam penafian situs web ini akan melindungi pejabat, karyawan, agen, anak perusahaan, penerus, penerima, dan subkontraktor serta.
+### Appropriateness
+By using this website, you agree that the exclusions and limitations of liability set out in this website disclaimer are reasonable.
 
-### Ketentuan yang tidak dapat diterapkan
-Jika ada ketentuan dari penafian situs web ini, atau ditemukan, tidak dapat diterapkan berdasarkan hukum yang berlaku, itu tidak akan mempengaruhi keberlakuan ketentuan lain dari penafian situs web ini.
+If you think it makes no sense, you should not use this website.
 
-### Ganti rugi
-Anda dengan ini mengganti rugi dan berjanji untuk tetap mengganti kerugian, kerusakan, biaya, kewajiban dan pengeluaran (termasuk tanpa batasan biaya hukum dan jumlah yang dibayarkan oleh pihak ketiga dalam penyelesaian klaim atau perselisihan atas saran dari penasihat hukum, atau yang timbul dan diderita karena timbul dari pelanggaran apa pun oleh Anda atas ketentuan apa pun dari syarat dan ketentuan ini, atau yang timbul dari klaim apa pun bahwa Anda telah melanggar ketentuan apa pun dari syarat dan ketentuan ini.
+### Other party
+You accept that, as a limited liability entity, you have an interest in limiting the personal liability of its officers and employees.  You agree that you will not bring any claim personally against its officers or employees in respect of any losses you suffer in connection with this website.
 
-### Pelanggaran syarat dan ketentuan ini
-Tanpa mengurangi hak-hak lain berdasarkan syarat dan ketentuan ini, jika Anda melanggar syarat dan ketentuan ini dengan cara apa pun, dapat mengambil tindakan yang dianggap tepat untuk menangani pelanggaran tersebut, termasuk menangguhkan akses Anda ke situs web, melarang Anda mengakses situs web, memblokir komputer menggunakan alamat IP Anda untuk mengakses situs web, menghubungi penyedia layanan internet Anda untuk meminta mereka memblokir akses Anda ke situs web dan/atau membawa proses pengadilan terhadap Anda.
+Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in this website disclaimer will protect its officers, employees, agents, subsidiaries, successors, assigns and subcontractors.
 
-### Variasi
-Kami dapat merevisi syarat dan ketentuan ini dari waktu ke waktu. Syarat dan ketentuan yang direvisi akan berlaku untuk penggunaan situs web ini sejak tanggal publikasi syarat dan ketentuan yang direvisi di situs web ini. Silakan periksa halaman ini secara teratur untuk memastikan Anda sudah familiar dengan versi saat ini.
+### Unstable conditions
+If any provision of this website disclaimer is, or is found, unenforceable under applicable law, that will not affect the enforceability of the other provisions of this website disclaimer.
 
-### Penugasan
-Kami dapat mentransfer, mensubkontrakkan, atau dengan cara lain menangani hak dan/atau kewajiban berdasarkan syarat dan ketentuan ini tanpa memberi tahu Anda atau memperoleh persetujuan Anda.
+### Compensation
+You hereby indemnify and undertake to remain indemnified for any losses, damages, costs, liabilities and expenses (including without limitation legal fees and amounts paid by third parties in the settlement of claims or disputes on the advice of legal counsel, or incurred and suffered as a result of  from any breach of these terms and conditions, or arising from any claim that you have breached any provision of these terms and conditions.
 
-Anda tidak boleh mentransfer, mensubkontrakkan, atau berurusan dengan hak dan/atau kewajiban Anda berdasarkan syarat dan ketentuan ini.
+### Violation of these terms and conditions
+Without prejudice to any other rights under these terms and conditions, if you violate these terms and conditions in any way, we may take such action as we deem appropriate to address the violation, including suspending your access to the website, prohibiting you from accessing the website,  block computers from using your IP address to access websites, contact your internet service provider to ask them to block your access to websites and/or bring court proceedings against you.
 
-### Keterpisahan
-Jika suatu ketentuan dari syarat dan ketentuan ini ditentukan oleh pengadilan atau otoritas berwenang lainnya sebagai tidak sah dan/atau tidak dapat dilaksanakan, ketentuan lainnya akan tetap berlaku. Jika ada ketentuan yang melanggar hukum dan/atau tidak dapat dilaksanakan akan menjadi sah atau dapat dilaksanakan jika bagian darinya dihapus, bagian itu akan dianggap dihapus, dan ketentuan lainnya akan terus berlaku.
+### Variation
+We may revise these terms and conditions from time to time.  The revised terms and conditions will apply to the use of this website from the date of publication of the revised terms and conditions on this website.  Please check this page regularly to make sure you are familiar with the current version.
 
-### Seluruh perjanjian
-Syarat dan ketentuan ini, bersama dengan Kebijakan Privasi merupakan keseluruhan perjanjian antara Anda dan sehubungan dengan penggunaan situs web ini oleh Anda, dan menggantikan semua perjanjian sebelumnya sehubungan dengan penggunaan situs web ini oleh Anda.
+### Assignment
+We may transfer, sub-contract or otherwise deal with rights and/or obligations under these terms and conditions without notifying you or obtaining your consent.
 
-### Hukum dan yurisdiksi
-Syarat dan ketentuan ini akan diatur oleh dan ditafsirkan sesuai dengan hukum , dan setiap perselisihan yang berkaitan dengan syarat dan ketentuan ini akan tunduk pada yurisdiksi eksklusif pengadilan.
+You may not transfer, sub-contract or otherwise deal with your rights and/or obligations under these terms and conditions.
+
+### Separation
+If any provision of these terms and conditions is determined by a court or other competent authority to be invalid/or unenforceable, the remaining provisions will remain in effect.  If any unlawful and/or unenforceable provision would become lawful or enforceable if part of it were deleted, that part will be deemed deleted, and the remaining provisions will continue in effect.
+
+### The whole agreement
+These terms and conditions, together with the privacy policy constitute the entire agreement between you and with respect to your use of this website, and supersede all prior agreements with respect to your use of this website.
+
+### Law and jurisdiction
+These terms and conditions will be governed by and construed in accordance with the law, and any disputes relating to these terms and conditions will be subject to the exclusive jurisdiction of the courts.
