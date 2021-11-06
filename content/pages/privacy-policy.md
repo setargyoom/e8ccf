@@ -22,47 +22,45 @@ seo:
 layout: page
 ---
 
-Privasi pengunjung sangatlah penting bagi kami. Berikut ini adalah informasi mengenai tipe informasi seperti apa yang kami terima dan kami kumpulkan melalui website ini serta bagaimana kami melindungi informasi tersebut. Kami tidak akan pernah menjual informasi pribadi anda kepada pihak ketiga manapun.
+The privacy of our visitors is very important to us.  The following is information about what types of information we receive and we collect through this website and how we protect that information.  We will never sell your personal information to any third party.
 
 ### Log File
-Sebagaimana website lainnya, website kami juga memakai log file. Informasi yang termasuk dalam log file antara lain, alamat internet protokol (IP) , tipe browser, Internet Service Provider (ISP), tanggal / waktu, halaman perujuk, dan jumlah klik untuk menganalisi trend, mengelola blog, melacak pergerakan pengguna website dan mengumpulkan informasi demografis. Alamat IP dan informasi lain tidak akan dihubungkan dengan informasi yang bersifat pribadi
+Like other websites, our website also uses log files.  The information included in the log file includes address, internet protocol (IP), browser type, Internet Service Provider (ISP), date/time, referring page, and number of clicks to analyze trends, manage blogs, track website user movements and collect  demographic information.  IP addresses and other information will not be associated with personally identifiable information.
 
-### Cookies dan Web beacon
-Website ini menggunakan cookies untuk menyimpan informasi tentang preferensi pengunjung, merekam informasi spesifik mengenai halaman mana yang diakses penggunjung, menyesuaikan konten halaman website berdasarkan jenis browser pengunjung atau informasi lain yang dikirim oleh pengunjung melalui browser mereka.
+### Cookies and Web Beacon
+This website uses cookies to store information about visitors preferences, record specific information on which pages the visitor accesses, customize website page content based on visitors browser type or other information that the visitor sends via their browser.
 
-### DoubleClick DART Cookie
-Beberapa partner periklanan kami mungkin menggunakan cookies an web beacon pada situs kami.
+### Double Click DART Cookie
+Some of our advertising partners may use cookies and web beacons on our site.
 
-Pihak ketiga sebagai penyedia iklan atau jaringan iklan ini menggunakan teknologi yang memungkinkan pengiriman iklan dan link dari website langsung ke browser anda. Saat ini terjadi, mereka secara automatis akan menerima alamat IP anda.
+These third-party ad providers or ad networks use technology that enables the delivery of advertisements and links from websites directly to your browser.  When this happens, they will automatically receive your IP address.
 
-Teknologi lain (seperti cookie, javascript atau juga web beacons) kemungkinan juga digunakan oleh pihak ketiga untuk mengukur keefektifan iklan mereka atau juga untuk personalisasi konten iklan yang anda lihat.
+Other technologies (such as cookies, javascript or web beacons) may also be used by third parties to measure the effectiveness of their advertisements or to personalize the advertising content that you see.
 
-Website ini tidak memiliki akses untuk mengontrol cookies yang dipasang oleh pihak ketiga pemasang iklan.
+This website has no access to control over the cookies that are set by third party advertisers.
 
-Anda sebaiknya meninjau kembali kebijakan privasi dari masing-masing pihak ketiga penyedia iklan untuk mengetahui informasi lebih terinci mengenai praktek atau cara kerja mereka atau untuk mendapatkan petunjuk bagaimana cara keluar dari praktek – praktek tertentu. Kebijakan privasi dari website ini tidak berlaku dan tidak dapat mengontrol kegiatan penyedia iklan dan websitenya.
+You should review the privacy policies of each of these third-party ad providers to learn about their practices or how they work or for instructions on how to opt-out of certain practices.  This website's privacy policy does not apply to and we cannot control the activities of its advertisers and websites.
 
-Jika anda ingin menonaktifkan cookie, anda dapat melakukannya melalui opsi pilihan pribadi di browser. Informasi lebih lanjut mengenai cookie manajemen dengan browser website tertentu dapat ditemukan di situs website masing-masing browser
+If you wish to disable cookies, you may do so through your browser's personal preferences.  Further information regarding cookie management with specific web browsers can be found at the browsers' respective websites.
 
-Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang kebijakan privasi kami, jangan ragu untuk menghubungi kami melalui email di templategyoom@gmail.com
+If you require more information or have any questions about our privacy policy, please feel free to contact us via email at templategyoom@gmail.com
 
-### Pernyataan
+### Statement
+By accessing this website, you are deemed to have understood and agreed to all the terms and conditions (disclaimer) that apply to the use of this website, as stated below:
 
-Dengan mengakses website ini Anda dianggap telah mengerti dan menyetujui seluruh syarat dan kondisi (disclaimer) yang berlaku dalam penggunaan website ini, sebagaimana tercantum dibawah ini :
+1. All information on this website is published in good faith and for general information purposes only.
 
-Semua informasi di website ini diterbitkan dengan itikad baik dan untuk tujuan informasi umum saja.
+2. Each article contains the date, month, and year of writing.  The information available on this website is for reference.
 
-Pada setiap artikel terdapat tanggal, bulan & tahun penulisan. Informasi yang tersedia di website ini mohon digunakan untuk rujukan atau referensi saja.
+3. We write based on what we know on the date, month, and year of writing.  We do not guarantee that all information presented is accurate and complete so we are not responsible for any errors or delays in updating information, or any losses arising from actions related to the use of the information contained on this website.
 
-Kami menulis berdasarkan apa yang kami ketahui pada tanggal, bulan & tahun penulisan. Kami tidak menjamin semua informasi yang disajikan akurat dan lengkap sehingga Kami tidak bertanggung jawab atas segala kesalahan dan keterlambatan memperbarui informasi, atau segala kerugian yang timbul karena tindakan yang berkaitan dengan penggunaan informasi yang ada pada website ini.
+4. We are very grateful if there are readers who are willing to notify us of the non-update of the articles we have written via our email.
 
-Kami sangat berterima kasih jika ada pembaca yang bersedia memberitahukan ketidak update-an artikel yang pernah Kami tulis melalui email kami.
+5. On this website there are several links to other sites that we intend to complete the information we wrote at the time of writing and at that time it was still relevant.  Therefore, we are not responsible for the content or changes to the content of the sites we link to.
 
-Di website ini terdapat beberapa link menuju situs lain yang Kami maksudkan untuk melengkapi informasi yang Kami tulis pada saat tanggal penulisan dan pada saat itu masih relevan. Oleh karena itu Kami tidak bertanggung jawab atas isi atau perubahan pada konten situs yang Kami tautkan.
+6. Every website reader is allowed to take references contained on this website, with reference notes or writings that have been taken by readers and used for certain purposes, for example commercial is the responsibility of the reference taker.
 
-Setiap pembaca website diperbolehkan untuk mengambil referensi yang terdapat pada website ini, dengan catatan referensi atau tulisan yang sudah diambil oleh pembaca dan digunakan untuk tujuan tertentu, misal komersil adalah tanggung jawab dari pengambil referensi tersebut.
+7. The writings on this website are personal opinions and do not reflect the attitude of the agency where we work.
 
-Tulisan-tulisan pada website ini merupakan pendapat pribadi dan bukan cerminan sikap instansi dimana Kami bekerja.
-
-### Persetujuan
-
-Dengan menggunakan website kami, Anda dengan ini menyetujui disclaimer kami dan setuju dengan ketentuan-ketentuannya.
+### Agreement
+By using our website, you hereby consent to our disclaimer and agree to its terms.
