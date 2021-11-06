@@ -19,7 +19,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: features_section
-    title: Why Choose AyolahZy?
+    title: Features
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
@@ -70,18 +70,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: features_section
-    features:
-      - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: images/testimonials.png
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: none
   - type: grid_section
     title: Tips
     grid_items:
@@ -89,7 +77,7 @@ sections:
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
+          With YourGoal you can list positive task what helps you to create
           good habbits.
         content_align: left
         image: images/icon-1.svg
