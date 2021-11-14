@@ -23,8 +23,7 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions:
           - label: Thank You
             url: /thank-you
@@ -38,9 +37,7 @@ sections:
         media_width: sixty
       - title: Achieve Your Goals With Your Friends
         content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions:
           - label: Thank You
             url: /thank-you
@@ -54,8 +51,7 @@ sections:
         media_width: sixty
       - title: Optimize Your Daily Schedule for Maximum Productivity
         content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions:
           - label: Thank You
             url: /thank-you
@@ -76,7 +72,7 @@ sections:
       - title: What to Do
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
@@ -86,7 +82,7 @@ sections:
       - title: What not to do
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
@@ -96,7 +92,7 @@ sections:
       - title: Activity streak
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
@@ -106,7 +102,7 @@ sections:
       - title: Your Progress
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
