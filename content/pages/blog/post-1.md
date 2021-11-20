@@ -5,9 +5,9 @@ subtitle: >-
 date: 2021-11-20
 author: content/data/team/arif-fahru.yaml
 categories:
-  - content/data/categories/tips.yaml
+  - content/data/categories/penyimpanan.yaml
 tags:
-  - content/data/tags/productivity.yaml
+  - content/data/tags/cloud storage.yaml
 excerpt: >-
   Apa itu cloud storage?
 thumb_image: images/post-5.jpg
