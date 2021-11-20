@@ -1,8 +1,8 @@
 ---
-title: Productivity
+title: Cloud storage
 sections:
   - type: hero_section
-    title: Posts in Productivity
+    title: Posts in Cloud storage
     align: center
     padding_top: medium
     padding_bottom: none
@@ -11,7 +11,7 @@ sections:
     blog_feed_cols: two
     enable_cards: true
     show_recent: false
-    tag: content/data/tags/productivity.yaml
+    tag: content/data/tags/cloud storage.yaml
     show_date: true
     show_categories: true
     show_author: false
@@ -39,14 +39,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in Productivity
+  title: Posts in Cloud storage
   description: This is the tag archive page
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Posts in Productivity
+      value: Posts in Cloud storage
       keyName: property
     - name: og:description
       value: This is the tag archive page
@@ -58,7 +58,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Posts in Productivity
+      value: Posts in Cloud storage
     - name: twitter:description
       value: This is the tag archive page
     - name: twitter:image
