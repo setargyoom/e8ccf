@@ -10,9 +10,9 @@ tags:
   - content/data/tags/cloud storage.yaml
 excerpt: >-
   Apa itu cloud storage?
-thumb_image: content/pages/blog/img/cloud storage.png
+thumb_image: /content/pages/blog/img/cloud storage.png
 thumb_image_alt: cloud storage image
-image: content/pages/blog/img/cloud storage.png
+image: /content/pages/blog/img/cloud storage.png
 image_alt: cloud storage image
 image_position: right
 seo:
