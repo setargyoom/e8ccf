@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "About",
-                "url": "/about",
+                "url": "/about-1",
                 "style": "primary"
             },
             {
@@ -48,7 +48,7 @@
         "primary_nav_links": [
             {
                 "label": "About",
-                "url": "/about",
+                "url": "/about-1",
                 "style": "link"
             },
             {
