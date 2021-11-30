@@ -7,7 +7,7 @@ export default function FourOhFour() {
     <Link href="/">
       <a>
         Go back home
-      </a></center>
-    </Link>
+      </a>
+    </Link></center>
   </>
 }
