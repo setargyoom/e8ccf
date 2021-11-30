@@ -1,15 +1,23 @@
 // 404.js
 import Link from 'next/link'
+import Image from 'next/image';
 
-export default function FourOhFour() {
-  return <>
-   <center>
-    img.src = "/images/404.svg"
-    <h1>404 - Page Not Found</h1>
-    <Link href="/">
-      <a>
-        Go back home
-      </a>
-    </Link></center>
-  </>
+const Custom404 = () => {
+    return (
+        <>
+            <div className="hero">
+                <div className="container">
+                    <h1>Page not found!</h1>
+                    <Image
+                        src="public/404.svg"
+                        alt="Not Found"
+                        width={500}
+                        height={500}
+                    />
+                </div>
+            </div>
+        </> 
+    )
 }
+
+export default Custom404;
