@@ -44,7 +44,7 @@
         "logo": "images/ayolahzy.svg",
         "logo_alt": "AyolahZy",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Sekilas",
         "primary_nav_links": [
             {
                 "label": "About",
