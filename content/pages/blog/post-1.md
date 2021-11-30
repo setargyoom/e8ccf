@@ -12,7 +12,7 @@ excerpt: >-
   Apa itu cloud storage?
 thumb_image: images/post-1_cloud storage.png
 thumb_image_alt: cloud storage image
-image: images/post-1_cloud storage.png
+image: images/post 1/post-1_cloud storage.png
 image_alt: cloud storage image
 image_position: right
 seo:
