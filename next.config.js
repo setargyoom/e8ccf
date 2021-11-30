@@ -9,6 +9,14 @@ module.exports = {
     devIndicators: {
         autoPrerender: false
     },
+    
+module.exports = {
+    images: {
+        domains: ['media.giphy.com'],
+        loader: "imgix",
+        path: ""
+    }
+},
     webpack: (config, { webpack }) => {
         // Tell webpack to ignore watching content files in the content folder.
         // Otherwise webpack receompiles the app and refreshes the whole page.
