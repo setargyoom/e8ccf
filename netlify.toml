@@ -2,3 +2,8 @@
 publish = "out"
 command = "npm run build"
 environment = { NODE_VERSION = "12" }
+
+[[redirects]]
+  from = "/*"
+  to = "/404"
+  status = 404
