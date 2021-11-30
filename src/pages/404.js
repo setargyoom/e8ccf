@@ -9,7 +9,7 @@ const Custom404 = () => {
                 <div className="container">
                     <h1>Page not found!</h1>
                     <Image
-                        src="public/404.svg"
+                        src="images/404.svg"
                         alt="Not Found"
                         width={500}
                         height={500}
