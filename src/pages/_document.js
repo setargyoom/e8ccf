@@ -37,7 +37,9 @@ export default class MyDocument extends Document {
      crossorigin="anonymous"></script>
 
                       <meta name="google-site-verification" content="wUeM07dkLdU-2K147mThUGaAhsD7vvHuqsNN_KeohRc" />
-                </Head>
+               
+                       <meta name="google-site-verification" content="YGpMex2LUWkl5oHyJTKr1SbKiMImeOG2EBZcqIlgBvE" />   
+                          </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src="/js/plugins.js" />
