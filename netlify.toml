@@ -7,3 +7,9 @@ environment = { NODE_VERSION = "12" }
   from = "/*"
   to = "/404"
   status = 404
+
+[[redirects]]
+  from = "https://ayolahzy.netlify.app"
+  to = "https://ayolahzy.pp.ua"
+  status = 301
+  force = true
