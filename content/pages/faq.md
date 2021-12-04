@@ -10,21 +10,21 @@ sections:
     padding_bottom: none
   - type: grid_section
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
+      - title: Masih dalam tahap pengembangan?
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
-      - title: Sagittis vitae et leo duis ut diam?
+          Masih dalam tahap pengembangan, :)
+      - title: Masih dalam tahap pengembangan?
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
-      - title: Viverra nam libero justo laoreet sit?
+          Masih dalam tahap pengembangan, :)
+      - title: Masih dalam tahap pengembangan?
         content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla posuere. Bibendum neque egestas congue quisque egestas. Mauris sit amet massa vitae tortor condimentum lacinia. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra tellus. Non enim praesent elementum facilisis.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+          Masih dalam tahap pengembangan, :)
+      - title: Masih dalam tahap pengembangan?
         content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat. Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo eget magna fermentum iaculis. Amet est placerat in egestas erat imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+          Masih dalam tahap pengembangan, :)
+      - title: Masih dalam tahap pengembangan?
         content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae. Dictum varius duis at consectetur lorem donec massa. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero.
+          Masih dalam tahap pengembangan, :)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
