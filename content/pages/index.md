@@ -23,7 +23,7 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Masih dalam tahap pengembangan, :)
         actions:
           - label: Thank You
             url: /thank-you
@@ -37,7 +37,7 @@ sections:
         media_width: sixty
       - title: Achieve Your Goals With Your Friends
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Masih dalam tahap pengembangan, :)
         actions:
           - label: Thank You
             url: /thank-you
@@ -51,7 +51,7 @@ sections:
         media_width: sixty
       - title: Optimize Your Daily Schedule for Maximum Productivity
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Masih dalam tahap pengembangan, :)
         actions:
           - label: Thank You
             url: /thank-you
@@ -72,7 +72,7 @@ sections:
       - title: What to Do
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Masih dalam tahap pengembangan, :)
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
@@ -82,7 +82,7 @@ sections:
       - title: What not to do
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          Masih dalam tahap pengembangan, :)
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
@@ -92,7 +92,7 @@ sections:
       - title: Activity streak
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          Masih dalam tahap pengembangan, :)
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
@@ -102,7 +102,7 @@ sections:
       - title: Your Progress
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+          Masih dalam tahap pengembangan, :)
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
