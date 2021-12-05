@@ -44,3 +44,5 @@ seo:
 layout: post
 ---
 Halo, kawan selamat datang
+
+![alt image](/images/post-1/cloud storage.png)
