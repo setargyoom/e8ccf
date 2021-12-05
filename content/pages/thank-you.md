@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for visiting this site.  We hope you like it.  Have a great day!
+      Terima kasih telah mengunjungi situs ini. Kami harap Anda menyukainya. Semoga hari mu menyenangkan!
     actions:
       - label: Back to homepage
         url: /
