@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Frequently Asked Questions
     subtitle: >-
-      Answers to common questions about YourGoal
+      Informasi Seputar Situs Ini
     align: center
     padding_top: large
     padding_bottom: none
