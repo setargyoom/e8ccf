@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact
-    subtitle: >-
+    content: >-
       For more information, you can contact the email address templategyoom@gmail.com
     actions:
       - label: Back to homepage
