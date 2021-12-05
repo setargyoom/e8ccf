@@ -47,5 +47,5 @@ Halo, Selamat Datang
 <img src="/images/no name.jpg" align="center">
 
 <img src="/images/post 1/post-1_cloud storage.png" align="center">
-
-<img width="329" height="#" src="/images/post 1/post-1_cloud storage.png" align="center">
+<br />
+<center><img width="329" height="#" src="/images/post 1/post-1_cloud storage.png"></center>
