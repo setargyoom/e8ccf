@@ -29,12 +29,12 @@
                 "style": "primary"
             },
             {
-                "label": "Contact",
+                "label": "Kontak",
                 "url": "/contact",
                 "style": "secondary"
             },
             {
-                "label": "Thank You",
+                "label": "Terima Kasih",
                 "url": "/thank-you",
                 "style": "primary"
             }
@@ -57,7 +57,7 @@
                 "style": "link"
             },
             {
-                "label": "Thank You",
+                "label": "Terima Kasih",
                 "url": "/thank-you",
                 "style": "link"
             }
