@@ -1,8 +1,8 @@
 ---
-title: Thank You
+title: Terima Kasih
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Terima Kasih!
     subtitle: >-
       Terima kasih telah mengunjungi situs ini. Kami harap Anda menyukainya. Semoga hari mu menyenangkan!
     actions:
