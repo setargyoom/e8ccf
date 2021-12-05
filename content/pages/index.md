@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome!
-    subtitle: We hope you like it. Have a great day!
+    title: Selamat Datang
+    subtitle: Kami harap Anda menyukainya. Semoga hari mu menyenangkan!
     actions:
-      - label: Explore Now
-        url: /blog
+      - label: Terima Kasih
+        url: /thank-you
         style: primary
     background_image: images/background.svg
     image_alt: Background image
@@ -19,48 +19,48 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: features_section
-    title: Features
+    title: Kiat
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Catat semua data aktivitas yang Anda butuhkan untuk meningkatkan diri Anda
         content: >-
-          Masih dalam tahap pengembangan, :)
+          
         actions:
-          - label: Thank You
+          - label: Terima Kasih
             url: /thank-you
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/ant-1.svg
-        image_alt: Feature 1 
+        image_alt: ant 1 
         media_position: right
         media_width: sixty
-      - title: Achieve Your Goals With Your Friends
+      - title: Capai tujuan Anda dengan teman Anda
         content: >-
-          Masih dalam tahap pengembangan, :)
+          
         actions:
-          - label: Thank You
+          - label: Terima Kasih
             url: /thank-you
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/ant-2.svg
-        image_alt: Feature 2 
+        image_alt: ant 2 
         media_position: left
         media_width: sixty
-      - title: Optimize Your Daily Schedule for Maximum Productivity
+      - title: Optimalkan jadwal harian Anda untuk produktivitas maksimum
         content: >-
-          Masih dalam tahap pengembangan, :)
+          
         actions:
-          - label: Thank You
+          - label: Terima Kasih
             url: /thank-you
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/ant-3.svg
-        image_alt: Feature 3 
+        image_alt: ant 3 
         media_position: right
         media_width: sixty
     feature_padding_vert: large
@@ -69,40 +69,40 @@ sections:
   - type: grid_section
     title: Tips
     grid_items:
-      - title: What to Do
+      - title: Apa yang harus dilakukan 
         title_align: left
         content: >-
-          Masih dalam tahap pengembangan, :)
+          Niat, Berdoa, Usaha, Kerja keras, Pantang menyerah, Percaya diri
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: What not to do
+      - title: Apa yang tidak dilakukan
         title_align: left
         content: >-
-          Masih dalam tahap pengembangan, :)
+          Bermalas-malasan, Putus asa, Berharap tidak disertai usaha 
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Activity streak
+      - title: Garis Aktivitas
         title_align: left
         content: >-
-          Masih dalam tahap pengembangan, :)
+          Jalankan semua aktivitas yang telah direncanakan secara teratur
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Your Progress
+      - title: Kemajuan Anda
         title_align: left
         content: >-
-          Masih dalam tahap pengembangan, :)
+          Catat dan apresiasi setiap capaian untuk memotivasi diri
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
@@ -116,7 +116,7 @@ sections:
     align: center
     background_color: none
   - type: blog_feed_section
-    title: What's New
+    title: Apa yang baru
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
@@ -132,10 +132,10 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to Explore?
-    content: Find a variety of interesting information for you!
+    title: Siap Bereksplorasi?
+    content: Temukan beragam informasi menarik untuk Anda!
     actions:
-      - label: Explore Now
+      - label: Eksplor Sekarang
         url: /blog
         style: primary
     actions_width: fourty
@@ -149,7 +149,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: AyolahZy
-  description: Find a variety of interesting information for you!
+  description: Temukan beragam informasi menarik untuk Anda!
   extra:
     - name: 'og:type'
       value: website
@@ -158,7 +158,7 @@ seo:
       value: AyolahZy
       keyName: property
     - name: 'og:description'
-      value: Find a variety of interesting information for you!
+      value: Temukan beragam informasi menarik untuk Anda!
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -169,7 +169,7 @@ seo:
     - name: 'twitter:title'
       value: AyolahZy
     - name: 'twitter:description'
-      value: Find a variety of interesting information for you!
+      value: Temukan beragam informasi menarik untuk Anda!
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
