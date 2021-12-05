@@ -1,27 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { Helmet } from 'react-helmet';
 
-import Image from 'next/image'
-import profilePic from '../public/me.png'
-
-function Home() {
-  return (
-    <>
-      <h1>My Homepage</h1>
-      <Image
-        src={profilePic}
-        alt="Picture of the author"
-        // width={500} automatically provided
-        // height={500} automatically provided
-        // blurDataURL="data:..." automatically provided
-        // placeholder="blur" // Optional blur-up while loading
-      />
-      <p>Welcome to my homepage!</p>
-    </>
-  )
-}
-
-
 export default class MyDocument extends Document {
     static async getInitialProps(ctx) {
         const initialProps = await Document.getInitialProps(ctx);
