@@ -45,4 +45,4 @@ layout: post
 ---
 Halo, kawan selamat datang
 
-![alt image](/images/post-1/cloud storage.png)
+![alt image](/images/post 1/post-1_cloud storage.png)
