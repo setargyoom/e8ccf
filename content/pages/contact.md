@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Kontak
 sections:
   - type: hero_section
-    title: Contact
+    title: Kontak
     content: >-
-      For more information, you can contact the email address templategyoom@gmail.com
+      Untuk informasi lebih lanjut, Anda dapat menghubungi alamat email templategyoom@gmail.com
     actions:
       - label: Back to homepage
         url: /
