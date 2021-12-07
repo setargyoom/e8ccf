@@ -1,7 +1,7 @@
 ---
 title: Mengenal Cloud Storage dan Cara Kerjanya
 subtitle: >-
-  Apa itu cloud storage? 
+  
 date: 2021-11-20
 author: content/data/team/arif-fahru.yaml
 categories:
@@ -9,7 +9,7 @@ categories:
 tags:
   - content/data/tags/cloud storage.yaml
 excerpt: >-
-  Apa itu cloud storage?
+  
 thumb_image: images/post 1/post 1_cloud storage.png
 thumb_image_alt: cloud storage image
 image: images/post 1/post 1_cloud storage.png
