@@ -10,6 +10,6 @@ environment = { NODE_VERSION = "12" }
 
 [[redirects]]
   from = "https://ayolahzy.netlify.app"
-  to = "https://ayolahzy.pp.ua"
+  to = "https://ayolahzy.netlify.app"
   status = 301
   force = true
