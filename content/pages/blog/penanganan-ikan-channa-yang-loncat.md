@@ -10,9 +10,9 @@ tags:
   - content/data/tags/ikan channa.yaml
 excerpt: >-
   
-thumb_image: images/post 1/
+thumb_image: images/post/channa loncat.png
 thumb_image_alt: image
-image: images/post 1/
+image: images/post/channa loncat.png
 image_alt: image
 image_position: right
 seo:
