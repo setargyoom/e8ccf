@@ -1,8 +1,8 @@
 ---
-title: Use Cases
+title: Ikan
 sections:
   - type: hero_section
-    title: Posts in Use Cases
+    title: Posts in Ikan
     align: center
     padding_top: medium
     padding_bottom: none
@@ -11,7 +11,7 @@ sections:
     blog_feed_cols: two
     enable_cards: true
     show_recent: false
-    category: content/data/categories/use-cases.yaml
+    category: content/data/categories/ikan.yaml
     show_date: true
     show_categories: true
     show_author: false
@@ -39,30 +39,30 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in Use Cases
+  title: Posts in Ikan
   description: This is the category archive page
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Posts in Use Cases
+      value: Posts in Ikan
       keyName: property
     - name: og:description
       value: This is the category archive page
       keyName: property
     - name: og:image
-      value: images/post-3.jpg
+      value: images/post-5.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Posts in Use Cases
+      value: Posts in Ikan
     - name: twitter:description
       value: This is the category archive page
     - name: twitter:image
-      value: images/post-3.jpg
+      value: images/post-5.jpg
       relativeUrl: true
 layout: advanced
 ---
