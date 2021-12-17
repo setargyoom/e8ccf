@@ -43,6 +43,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
+
 **Apa itu Cloud Storage?** Berbicara mengenai cloud storage, apa yang pertama kali Anda pikirkan mengenai hal tersebut ? Kalau ditelaah secara bahasa Cloud Storage sudah dipastikan adalah sebuah media penyimpanan.
 
 Yapp... memang benar, Cloud Storage merupakan media penyimpanan yang dapat diakses secara online. Hal ini berbeda dengan penyimpanan eksternal, layaknya hardisk, flashdisk, ataupun memori card.
