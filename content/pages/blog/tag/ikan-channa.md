@@ -1,8 +1,8 @@
 ---
-title: Extensions
+title: Ikan Channa
 sections:
   - type: hero_section
-    title: Posts in Extensions
+    title: Posts in Ikan Channa
     align: center
     padding_top: medium
     padding_bottom: none
@@ -11,7 +11,7 @@ sections:
     blog_feed_cols: two
     enable_cards: true
     show_recent: false
-    tag: content/data/tags/extensions.yaml
+    tag: content/data/tags/ikan channa.yaml
     show_date: true
     show_categories: true
     show_author: false
@@ -39,30 +39,30 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in Extensions
+  title: Posts in Ikan Channa
   description: This is the tag archive page
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Posts in Extensions
+      value: Posts in Ikan Channa
       keyName: property
     - name: og:description
       value: This is the tag archive page
       keyName: property
     - name: og:image
-      value: images/post-2.jpg
+      value: images/post-5.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Posts in Extensions
+      value: Posts in Ikan Channa
     - name: twitter:description
       value: This is the tag archive page
     - name: twitter:image
-      value: images/post-2.jpg
+      value: images/post-5.jpg
       relativeUrl: true
 layout: advanced
 ---
