@@ -3,7 +3,7 @@ title: Mengenal Cloud Storage dan Cara Kerjanya
 subtitle: >-
   
 date: 2021-11-20
-author: content/data/team/arif-fahru.yaml
+author: content/data/team/mas-degan.yaml
 categories:
   - content/data/categories/penyimpanan.yaml
 tags:
