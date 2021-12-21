@@ -35,7 +35,7 @@ export default class Body extends React.Component {
             );
         } else if (style === 'minimal') {
             return (
-                font === 'serif' ? <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
+                font === 'sans-serif' ? <link href="https://fonts.googleapis.com/css2?family=Andika+New+Basic:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
                     : <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
             );
         } else {
