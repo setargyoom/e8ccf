@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Subscribe to our newsletter to make sure you don’t miss anything
+    title: Subscribe to our newsletter 
     title_align: center
     form_position: bottom
     form_layout: inline
@@ -52,7 +52,7 @@ seo:
       value: This is the category archive page
       keyName: property
     - name: og:image
-      value: images/post-2.jpg
+      value: images/post-5.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -62,7 +62,7 @@ seo:
     - name: twitter:description
       value: This is the category archive page
     - name: twitter:image
-      value: images/post-2.jpg
+      value: images/post-5.jpg
       relativeUrl: true
 layout: advanced
 ---
