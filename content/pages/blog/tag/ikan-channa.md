@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Subscribe to our newsletter to make sure you don’t miss anything
+    title: Subscribe to our newsletter
     title_align: center
     form_position: bottom
     form_layout: inline
