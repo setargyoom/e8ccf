@@ -1,3 +1,49 @@
+---
+title: 6 Penyakit yang Kerap Menyerang Ikan Channa
+subtitle: >-
+  
+date: 2021-12-11
+author: content/data/team/mas-degan.yaml
+categories:
+  - content/data/categories/ikan.yaml
+tags:
+  - content/data/tags/ikan channa.yaml
+excerpt: >-
+  
+thumb_image: images/post/
+thumb_image_alt: image
+image: images/post/
+image_alt: image
+image_position: right
+seo:
+  title: 6 Penyakit yang Kerap Menyerang Ikan Channa
+  description: Penyakit Ikan Channa
+  extra:
+    - name: og:type
+      value: article
+      keyName: property
+    - name: og:title
+      value: 6 Penyakit yang Kerap Menyerang Ikan Channa
+      keyName: property
+    - name: og:description
+      value: Penyakit Ikan Channa
+      keyName: property
+    - name: og:image
+      value: images/post-5.jpg
+      keyName: property
+      relativeUrl: true
+    - name: twitter:card
+      value: summary_large_image
+    - name: twitter:title
+      value: 6 Penyakit yang Kerap Menyerang Ikan Channa
+    - name: twitter:description
+      value: Penyakit Ikan Channa
+    - name: twitter:image
+      value: images/post-5.jpg
+      relativeUrl: true
+layout: post
+---
+
 Akhir-akhir ini banyak para penghobi ikan predator yang tertarik dengan ikan channa. Warnanya yang indah dan karakteristik yang agresif menambah daya tarik dari ikan tersebut. 
 
 Selain itu ikan channa juga dapat diajak berinteraksi untuk mengikuti gerakan tangan atau cermin. Memang ikan ini akan berubah menjadi galak saat didekatkan cermin di depannya. Maka dari itu, biasanya pemeliharaan ikan channa dilakukan secara terpisah atau sendiri-sendiri. 
