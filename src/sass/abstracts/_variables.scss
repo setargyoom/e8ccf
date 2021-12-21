@@ -3,9 +3,8 @@
 // Theme font and color variations
 $theme-styles: (
 	classic: (
-		font-family: 'Andika New Basic', sans-serif;
-		fonts: (
-			sans-serif: ('Andika New Basic', sans-serif)
+		fonts-family: (
+			sans-serif: ('Andika New Basic', sans-serif;)
 		),
 		colors: (
 			blue:  #7076f0,
@@ -14,9 +13,8 @@ $theme-styles: (
 		)
 	),
 	bold: (
-		font-family: 'Andika New Basic', sans-serif;
-		fonts: (
-			sans-serif: ('Andika New Basic', sans-serif)
+		fonts-family: (
+			sans-serif: ('Andika New Basic', sans-serif;)
 		),
 		colors: (
 			blue:  #2859da,
@@ -25,9 +23,8 @@ $theme-styles: (
 		)
 	),
 	minimal: (
-		font-family: 'Andika New Basic', sans-serif;
-		fonts: (
-			sans-serif: ('Andika New Basic', sans-serif)
+		fonts-family: (
+			sans-serif: ('Andika New Basic', sans-serif;)
 		),
 		colors: (
 			blue:   #0084ff,
