@@ -4,7 +4,8 @@
 $theme-styles: (
 	classic: (
 		fonts: (
-			sans-serif: ('Andika New Basic', sans-serif)
+			serif: ('Lora', 'Lucida Bright', 'Lucidabright', 'Lucida Serif', Lucida, Georgia, serif),			
+			sans-serif: ('Open Sans', Lato, sans-serif)
 		),
 		colors: (
 			blue:  #7076f0,
@@ -14,7 +15,8 @@ $theme-styles: (
 	),
 	bold: (
 		fonts: (
-			sans-serif: ('Andika New Basic', sans-serif)
+			serif: ('Arvo', 'Rockwell', Georgia, Times, 'Times New Roman', serif),			
+			sans-serif: ('Poppins', 'Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
 			blue:  #2859da,
@@ -24,7 +26,8 @@ $theme-styles: (
 	),
 	minimal: (
 		fonts: (
-			sans-serif: ('Andika New Basic', sans-serif)
+			serif: ('IBM Plex Serif', Georgia, Times, 'Times New Roman', serif),			
+			sans-serif: ('IBM Plex Sans','Helvetica Neue', Helvetica, 'Roboto', sans-serif)		
 		),
 		colors: (
 			blue:   #0084ff,
@@ -35,7 +38,7 @@ $theme-styles: (
 );
 
 // Monospace font
-$font-family-monospace: 'Andika New Basic',sans-serif !default;
+$font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace !default;
 
 
 // Colors
