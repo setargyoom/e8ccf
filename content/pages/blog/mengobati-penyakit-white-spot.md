@@ -1,3 +1,49 @@
+---
+title: Cara Mengobati Ikan Channa dari Penyakit White Spot
+subtitle: >-
+  
+date: 2021-12-12
+author: content/data/team/mas-degan.yaml
+categories:
+  - content/data/categories/ikan.yaml
+tags:
+  - content/data/tags/ikan channa.yaml
+excerpt: >-
+  
+thumb_image: images/post/
+thumb_image_alt: image
+image: images/post/
+image_alt: image
+image_position: right
+seo:
+  title: Cara Mengobati Ikan Channa dari Penyakit White Spot
+  description: Mengobati White Spot pada Ikan Channa
+  extra:
+    - name: og:type
+      value: article
+      keyName: property
+    - name: og:title
+      value: Cara Mengobati Ikan Channa dari Penyakit White Spot
+      keyName: property
+    - name: og:description
+      value: Mengobati White Spot pada Ikan Channa
+      keyName: property
+    - name: og:image
+      value: images/post-5.jpg
+      keyName: property
+      relativeUrl: true
+    - name: twitter:card
+      value: summary_large_image
+    - name: twitter:title
+      value: Cara Mengobati Ikan Channa dari Penyakit White Spot
+    - name: twitter:description
+      value: Mengobati White Spot pada Ikan Channa
+    - name: twitter:image
+      value: images/post-5.jpg
+      relativeUrl: true
+layout: post
+---
+
 Memelihara ikan channa memang memberikan kesan tersendiri yang dapat membuat hati senang. Keindahan dan sifat agresifnya menjadi daya tarik dari ikan ini. Apalagi kalau ikan tersebut sudah terbiasa diajak berinteraksi, maka ia akan dengan mudah bergerak ke sana ke mari pada saat kita berada di dekatnya. 
 
 Namun, terkadang ada juga masalah yang kerap menghampiri selama memelihara ikan channa, salah satunya terserang penyakit white spot. Penyakit white spot ini memiliki gejala berupa bintik putih yang menempel pada sirip ikan. Apabila hal tersebut dibiarkan saja, maka bintik putih tersebut akan menyebar semakin banyak. 
