@@ -10,9 +10,9 @@ tags:
   - content/data/tags/ikan channa.yaml
 excerpt: >-
   
-thumb_image: images/post/
+thumb_image: images/post/mengobati white spot.png
 thumb_image_alt: image
-image: images/post/
+image: images/post/mengobati white spot.png
 image_alt: image
 image_position: right
 seo:
