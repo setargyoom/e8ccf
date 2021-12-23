@@ -10,6 +10,6 @@ environment = { NODE_VERSION = "12" }
 
 [[redirects]] 
 from = "https://ayolahzy.netlify.com/*"
- to = "https://www.ayolahzy.my.id/:splat" 
+ to = "https://www.komedimizahalemi.xyz/:splat" 
 status = 301 
 force = true
