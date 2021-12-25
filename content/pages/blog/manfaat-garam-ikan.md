@@ -1,3 +1,49 @@
+---
+title: 8 Manfaat Garam Ikan Untuk Ikan Hias
+subtitle: >-
+  
+date: 2021-12-12
+author: content/data/team/mas-degan.yaml
+categories:
+  - content/data/categories/ikan.yaml
+tags:
+  - content/data/tags/garam ikan.yaml
+excerpt: >-
+  
+thumb_image: images/post/
+thumb_image_alt: image
+image: images/post/
+image_alt: image
+image_position: right
+seo:
+  title: 8 Manfaat Garam Ikan Untuk Ikan Hias
+  description: Manfaat Garam Ikan
+  extra:
+    - name: og:type
+      value: article
+      keyName: property
+    - name: og:title
+      value: 8 Manfaat Garam Ikan Untuk Ikan Hias
+      keyName: property
+    - name: og:description
+      value: Manfaat Garam Ikan
+      keyName: property
+    - name: og:image
+      value: images/post-5.jpg
+      keyName: property
+      relativeUrl: true
+    - name: twitter:card
+      value: summary_large_image
+    - name: twitter:title
+      value: 8 Manfaat Garam Ikan Untuk Ikan Hias
+    - name: twitter:description
+      value: Manfaat Garam Ikan
+    - name: twitter:image
+      value: images/post-5.jpg
+      relativeUrl: true
+layout: post
+---
+
 Garam ikan mengandung berbagai manfaat yang cukup baik untuk ikan hias. Oleh karena itu banyak para penghobi ikan hias yang kerap menggunakan garam ikan sebagai perawatan terhadap ikannya. 
 
 Garam ikan ini berbeda dengan jenis garam pada umumnya (garam dapur), biasanya garam ikan memiliki butiran-butiran yang relatif kasar dibandingkan dengan garam dapur. Selain itu garam ikan tidak mengandung yodium, yang berarti garam tersebut aman digunakan untuk ikan. 
