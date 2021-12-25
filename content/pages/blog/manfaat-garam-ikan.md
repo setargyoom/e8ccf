@@ -10,9 +10,9 @@ tags:
   - content/data/tags/garam ikan.yaml
 excerpt: >-
   
-thumb_image: images/post/
+thumb_image: images/post/manfaat garam ikan.png
 thumb_image_alt: image
-image: images/post/
+image: images/post/manfaat garam ikan.png
 image_alt: image
 image_position: right
 seo:
