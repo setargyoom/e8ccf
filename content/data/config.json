@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "About",
-                "url": "/about-1",
+                "url": "/about",
                 "style": "primary"
             },
             {
@@ -48,7 +48,7 @@
         "primary_nav_links": [
             {
                 "label": "About",
-                "url": "/about-1",
+                "url": "/about",
                 "style": "link"
             },
             {
@@ -66,18 +66,18 @@
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "label": "Ikan",
-                "url": "/blog/category/ikan",
+                "label": "Category",
+                "url": "/blog/category/",
                 "style": "link"
             },
             {
-                "label": "Penyimpanan",
-                "url": "/blog/category/penyimpanan",
+                "label": "Category",
+                "url": "/blog/category/",
                 "style": "link"
             },
             {
-                "label": "Tutorial",
-                "url": "/blog/category/tutorial",
+                "label": "Category",
+                "url": "/blog/category/",
                 "style": "link"
             }
         ],
