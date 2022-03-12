@@ -36,11 +36,8 @@ export default class MyDocument extends Document {
                       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2378860167138114"
      crossorigin="anonymous"></script>
 
-                      <meta name="google-site-verification" content="wUeM07dkLdU-2K147mThUGaAhsD7vvHuqsNN_KeohRc" />
-               
-                       <meta name="google-site-verification" content="Z-Ca6UEX01eGFJoFdjzlONBucHLAsxjpkskYyGzZJuA" />
-                   
-                       <meta name="google-site-verification" content="0T02GLR5s_zDelCEyUDCFJCAPUgrzdLR3HcGbFyoDus" />    
+                      
+                           
                            </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
