@@ -19,8 +19,8 @@
                 "style": "primary"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Disclaimer",
+                "url": "/disclaimer",
                 "style": "secondary"
             },
             {
@@ -92,6 +92,11 @@
             {
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
+                "style": "link"
+            },
+            {
+                "label": "Disclaimer",
+                "url": "/disclaimer",
                 "style": "link"
             }
         ],
