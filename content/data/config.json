@@ -62,7 +62,7 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
@@ -81,7 +81,7 @@
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
