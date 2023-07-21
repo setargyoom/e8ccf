@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Selamat Datang
-    subtitle: Kami harap Anda menyukainya. Semoga hari mu menyenangkan!
+    subtitle: Kami harap kamu menyukainya. Semoga hari mu menyenangkan!
     actions:
       - label: Terima Kasih
         url: /thank-you
@@ -21,7 +21,7 @@ sections:
   - type: features_section
     title: Kiat
     features:
-      - title: Catat semua data aktivitas yang Anda butuhkan untuk meningkatkan diri Anda
+      - title: Catat semua data aktivitas yang dibutuhkan untuk meningkatkan diri
         content: >-
           
         actions:
@@ -35,7 +35,7 @@ sections:
         image_alt: ant 1 
         media_position: right
         media_width: sixty
-      - title: Capai tujuan Anda dengan teman Anda
+      - title: Lakukan aktivitas positif dengan senang hati
         content: >-
           
         actions:
@@ -49,7 +49,7 @@ sections:
         image_alt: ant 2 
         media_position: left
         media_width: sixty
-      - title: Optimalkan jadwal harian Anda untuk produktivitas maksimum
+      - title: Optimalkan jadwal harian untuk produktivitas maksimum
         content: >-
           
         actions:
@@ -72,7 +72,7 @@ sections:
       - title: Apa yang harus dilakukan 
         title_align: left
         content: >-
-          Niat, Berdoa, Usaha, Kerja keras, Pantang menyerah, Percaya diri
+          Niat, Berdoa, Usaha, Konsisten, Pantang menyerah, Percaya diri
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
@@ -82,7 +82,7 @@ sections:
       - title: Apa yang tidak dilakukan
         title_align: left
         content: >-
-          Bermalas-malasan, Putus asa, Berharap tidak disertai usaha 
+          Bermalas-malasan, Banyak mengeluh, Menyalahkan keadaan 
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
@@ -133,7 +133,7 @@ sections:
     background_color: none
   - type: cta_section
     title: Siap Bereksplorasi?
-    content: Temukan beragam informasi menarik untuk Anda!
+    content: Temukan beragam informasi menarik untuk Kamu!
     actions:
       - label: Eksplor Sekarang
         url: /blog
@@ -149,7 +149,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: AyolahZy
-  description: Temukan beragam informasi menarik untuk Anda!
+  description: Temukan beragam informasi menarik untuk Kamu!
   extra:
     - name: 'og:type'
       value: website
@@ -158,7 +158,7 @@ seo:
       value: AyolahZy
       keyName: property
     - name: 'og:description'
-      value: Temukan beragam informasi menarik untuk Anda!
+      value: Temukan beragam informasi menarik untuk Kamu!
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -169,7 +169,7 @@ seo:
     - name: 'twitter:title'
       value: AyolahZy
     - name: 'twitter:description'
-      value: Temukan beragam informasi menarik untuk Anda!
+      value: Temukan beragam informasi menarik untuk Kamu!
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
